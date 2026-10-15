@@ -16,17 +16,17 @@
 ## 📅 Contributions
 
 <!-- Troque SEU_USUARIO pelo seu @ do GitHub (aqui e nos outros links) -->
-<img src="https://ghchart.rshah.org/ff2b3a/SEU_USUARIO" alt="Calendário de contribuições" width="100%"/>
+<img src="https://ghchart.rshah.org/ff2b3a/tsoul" alt="Calendário de contribuições" width="100%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=0d1117&color=ff2b3a&line=ff2b3a&point=ffffff&area=true&hide_border=true" alt="Gráfico de atividade" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tsoul&bg_color=0d1117&color=ff2b3a&line=ff2b3a&point=ffffff&area=true&hide_border=true" alt="Gráfico de atividade" width="100%"/>
 
 ## 📌 Pinned Repositories
 
-<a href="https://github.com/SEU_USUARIO/REPO_1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=REPO_1&theme=dark&bg_color=0d1117&border_color=ff2b3a&title_color=ff2b3a&icon_color=ff2b3a" />
+<a href="https://github.com/tsoul/REPO_1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tsoul&repo=REPO_1&theme=dark&bg_color=0d1117&border_color=ff2b3a&title_color=ff2b3a&icon_color=ff2b3a" />
 </a>
-<a href="https://github.com/SEU_USUARIO/REPO_2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=REPO_2&theme=dark&bg_color=0d1117&border_color=ff2b3a&title_color=ff2b3a&icon_color=ff2b3a" />
+<a href="https://github.com/tsoul/REPO_2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tsoul&repo=REPO_2&theme=dark&bg_color=0d1117&border_color=ff2b3a&title_color=ff2b3a&icon_color=ff2b3a" />
 </a>
 
 ## 🦇 Sobre mim
