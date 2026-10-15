@@ -1,43 +1,24 @@
 <div align="center">
 
-<!-- LOGO ASCII ANIMADA (se forma da esquerda pra direita, em loop) -->
 <img src="./assets/ascii-logo.svg" alt="Logo ASCII animada" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=FF2B3A&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Next.js+%7C+Electron+%7C+Supabase;Sempre+evoluindo+%F0%9F%A6%87" alt="Typing SVG"/>
+<img src="./assets/series-tsoul.svg" alt="Serie de Calculo II - tsoul" width="100%"/>
 
 </div>
 
 ## ⚙️ Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,electron,supabase,tailwind,git,github,figma&theme=dark" alt="techs"/>
+<img src="https://cdn.simpleicons.org/html5/f0f6fc" width="38" height="38" alt="html5"/>&nbsp; <img src="https://cdn.simpleicons.org/css3/8b949e" width="38" height="38" alt="css3"/>&nbsp; <img src="https://cdn.simpleicons.org/javascript/f0f6fc" width="38" height="38" alt="javascript"/>&nbsp; <img src="https://cdn.simpleicons.org/typescript/8b949e" width="38" height="38" alt="typescript"/>&nbsp; <img src="https://cdn.simpleicons.org/react/f0f6fc" width="38" height="38" alt="react"/>&nbsp; <img src="https://cdn.simpleicons.org/nextdotjs/8b949e" width="38" height="38" alt="nextdotjs"/>&nbsp; <img src="https://cdn.simpleicons.org/nodedotjs/f0f6fc" width="38" height="38" alt="nodedotjs"/>&nbsp; <img src="https://cdn.simpleicons.org/electron/8b949e" width="38" height="38" alt="electron"/>&nbsp; <img src="https://cdn.simpleicons.org/supabase/f0f6fc" width="38" height="38" alt="supabase"/>&nbsp; <img src="https://cdn.simpleicons.org/tailwindcss/8b949e" width="38" height="38" alt="tailwindcss"/>&nbsp; <img src="https://cdn.simpleicons.org/git/f0f6fc" width="38" height="38" alt="git"/>&nbsp; <img src="https://cdn.simpleicons.org/github/8b949e" width="38" height="38" alt="github"/>&nbsp; <img src="https://cdn.simpleicons.org/figma/f0f6fc" width="38" height="38" alt="figma"/>&nbsp;
 </p>
-
-## 📅 Contributions
-
-<!-- Troque SEU_USUARIO pelo seu @ do GitHub (aqui e nos outros links) -->
-<img src="https://ghchart.rshah.org/ff2b3a/tsoul" alt="Calendário de contribuições" width="100%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tsoul&bg_color=0d1117&color=ff2b3a&line=ff2b3a&point=ffffff&area=true&hide_border=true" alt="Gráfico de atividade" width="100%"/>
-
-## 📌 Pinned Repositories
-
-<a href="https://github.com/tsoul/REPO_1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tsoul&repo=REPO_1&theme=dark&bg_color=0d1117&border_color=ff2b3a&title_color=ff2b3a&icon_color=ff2b3a" />
-</a>
-<a href="https://github.com/tsoul/REPO_2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tsoul&repo=REPO_2&theme=dark&bg_color=0d1117&border_color=ff2b3a&title_color=ff2b3a&icon_color=ff2b3a" />
-</a>
 
 ## 🦇 Sobre mim
 
 Sou desenvolvedor apaixonado por criar produtos completos, do visual ao back-end: sites, apps desktop e sistemas em tempo real.
-Hoje trabalho com **Next.js, Electron e Supabase**, e estou sempre estudando segurança, performance e design.
+Hoje trabalho com **Next.js, Electron e Supabase**, e estou sempre estudando matemática, física, segurança e performance.
 
 **O que eu quero:** construir projetos cada vez maiores, entrar no mercado de tecnologia e lançar o meu próprio produto.
 
-> _"Web browsers are useless here."_ 😉
-
-## 🌊 Árvore de Skills — `f(t) = A·sin(ωt + φ)`
+## 🌊 Árvore de Skills
 
 <img src="./assets/skill-wave.svg" alt="Função ondulatória como árvore de skills" width="100%"/>
