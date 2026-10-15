@@ -1,0 +1,2011 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 612" width="100%" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo4OGI1NDA3YS05YWNkLTRiYjItYjAzZi00ODUwMzkwMDliZWMAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaE6erRl9pbenIfa0BGOo5N8AAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDpjYmJjY2YxZC1jYzMxLTRiYWYtYTIxNC1lY2FkNzU2OTkyMjRscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoiVkUveKjEkkXu94egFa7FAAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggawZZAeTn6nqKILYjHnmclKXHi+62LysH3h0cDj0Sef6kZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaLC/SHMf05lvMwriSRicjisAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCDQI5awxCIq9tMrHfYUXwZxWZr8leP7RsObdyhbEDg49GRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBiLZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjg4YjU0MDdhLTlhY2QtNGJiMi1iMDNmLTQ4NTAzOTAwOWJlYy9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjdjNTc3NDkzLTBiZjQtNDc1MC04ZGE4LWRiMzAyNWIyMjM1MHJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCBrBlkB5OfqeoogtiMeeZyUpceL7rYvKwfeHRwOPRJ5/qJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggAC3Aek4R8Zujma2fA9B4FPV/OWaIbAJt5xCHtAG+6huiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFgge7rTDEtyhcTOu5OBhQzAxnd/sGlRu2xG0+BOHPyUZw50Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQLdb7Fc4hOkPKUOlaYuVyb5yji/M86NYe0K7ojAVwxhkqhZ6uk3eLipXY7MYO/4X4ofbZlB7iPWVelUH/Vj/zVE=</c2pa:manifest></metadata>
+<rect width="100%" height="100%" fill="#0d1117" rx="10"/>
+<defs><clipPath id="c"><rect x="0" y="0" height="612" width="0"><animate attributeName="width" values="0;1080;1080;0" keyTimes="0;0.55;0.92;1" dur="9s" repeatCount="indefinite"/></rect></clipPath><linearGradient id="s"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset="1" stop-color="#fff" stop-opacity=".7"/></linearGradient></defs>
+<g clip-path="url(#c)" fill="#fff" font-family="Courier New,DejaVu Sans Mono,monospace" font-size="6.00">
+<text x="100.8" y="6.4" textLength="10.8" lengthAdjust="spacing">.-.</text>
+<text x="964.8" y="6.4" textLength="10.8" lengthAdjust="spacing">.-.</text>
+<text x="104.4" y="12.8" textLength="18.0" lengthAdjust="spacing">----.</text>
+<text x="954.0" y="12.8" textLength="14.4" lengthAdjust="spacing">.---</text>
+<text x="108.0" y="19.2" textLength="21.6" lengthAdjust="spacing">.----.</text>
+<text x="943.2" y="19.2" textLength="21.6" lengthAdjust="spacing">.-----</text>
+<text x="111.6" y="25.6" textLength="10.8" lengthAdjust="spacing">.-.</text>
+<text x="126.0" y="25.6" textLength="18.0" lengthAdjust="spacing">.,,-.</text>
+<text x="932.4" y="25.6" textLength="18.0" lengthAdjust="spacing">-,,,.</text>
+<text x="954.0" y="25.6" textLength="7.2" lengthAdjust="spacing">-.</text>
+<text x="122.4" y="32.0" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="140.4" y="32.0" textLength="25.2" lengthAdjust="spacing">.,,---.</text>
+<text x="914.4" y="32.0" textLength="25.2" lengthAdjust="spacing">-,,,-..</text>
+<text x="943.2" y="32.0">.</text>
+<text x="950.4" y="32.0" textLength="7.2" lengthAdjust="spacing">..</text>
+<text x="126.0" y="38.4" textLength="10.8" lengthAdjust="spacing">,--</text>
+<text x="140.4" y="38.4">.</text>
+<text x="154.8" y="38.4" textLength="25.2" lengthAdjust="spacing">..,,,,-</text>
+<text x="183.6" y="38.4">.</text>
+<text x="190.8" y="38.4">.</text>
+<text x="198.0" y="38.4">.</text>
+<text x="205.2" y="38.4">.</text>
+<text x="212.4" y="38.4">.</text>
+<text x="856.8" y="38.4" textLength="7.2" lengthAdjust="spacing">-.</text>
+<text x="882.0" y="38.4">.</text>
+<text x="889.2" y="38.4" textLength="32.4" lengthAdjust="spacing">.---,:,-.</text>
+<text x="925.2" y="38.4">.</text>
+<text x="932.4" y="38.4" textLength="18.0" lengthAdjust="spacing">-,,:,</text>
+<text x="122.4" y="44.8" textLength="39.6" lengthAdjust="spacing">.--..-,,,..</text>
+<text x="165.6" y="44.8">.</text>
+<text x="172.8" y="44.8" textLength="18.0" lengthAdjust="spacing">-,,,-</text>
+<text x="194.4" y="44.8">.</text>
+<text x="201.6" y="44.8">.</text>
+<text x="208.8" y="44.8" textLength="21.6" lengthAdjust="spacing">..,,--</text>
+<text x="842.4" y="44.8" textLength="68.4" lengthAdjust="spacing">--.-,-.....-,,,~,..</text>
+<text x="914.4" y="44.8" textLength="36.0" lengthAdjust="spacing">.-,~;,.,,-</text>
+<text x="126.0" y="51.2">.</text>
+<text x="133.2" y="51.2" textLength="39.6" lengthAdjust="spacing">--,-.-:,,~-</text>
+<text x="183.6" y="51.2" textLength="25.2" lengthAdjust="spacing">.--,,-.</text>
+<text x="212.4" y="51.2" textLength="18.0" lengthAdjust="spacing">.-,-.</text>
+<text x="234.0" y="51.2" textLength="10.8" lengthAdjust="spacing">,~:</text>
+<text x="435.6" y="51.2">-</text>
+<text x="831.6" y="51.2" textLength="18.0" lengthAdjust="spacing">,,,-.</text>
+<text x="853.2" y="51.2" textLength="10.8" lengthAdjust="spacing">.-,</text>
+<text x="867.6" y="51.2" textLength="25.2" lengthAdjust="spacing">.-:,,:,</text>
+<text x="903.6" y="51.2" textLength="46.8" lengthAdjust="spacing">,:~;~-,:,--,-</text>
+<text x="122.4" y="57.6">.</text>
+<text x="129.6" y="57.6" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="144.0" y="57.6" textLength="68.4" lengthAdjust="spacing">.,,-.-~,.,:,---,;;-</text>
+<text x="216.0" y="57.6" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="230.4" y="57.6" textLength="36.0" lengthAdjust="spacing">.--..,;,..</text>
+<text x="435.6" y="57.6" textLength="7.2" lengthAdjust="spacing">,.</text>
+<text x="813.6" y="57.6" textLength="133.2" lengthAdjust="spacing">..,~,-,,,,,-..~*~.-,,,:~;;:-,,,,.....</text>
+<text x="950.4" y="57.6">.</text>
+<text x="1000.8" y="57.6">.</text>
+<text x="1008.0" y="57.6">.</text>
+<text x="1015.2" y="57.6">.</text>
+<text x="1022.4" y="57.6">.</text>
+<text x="1029.6" y="57.6" textLength="50.4" lengthAdjust="spacing">.....-..-----.</text>
+<text x="14.4" y="64.0" textLength="7.2" lengthAdjust="spacing">--</text>
+<text x="25.2" y="64.0">.</text>
+<text x="32.4" y="64.0">.</text>
+<text x="39.6" y="64.0">.</text>
+<text x="46.8" y="64.0">.</text>
+<text x="54.0" y="64.0" textLength="18.0" lengthAdjust="spacing">----.</text>
+<text x="75.6" y="64.0">.</text>
+<text x="82.8" y="64.0">.</text>
+<text x="90.0" y="64.0" textLength="32.4" lengthAdjust="spacing">,~~:,-.--</text>
+<text x="126.0" y="64.0">.</text>
+<text x="133.2" y="64.0">.</text>
+<text x="147.6" y="64.0">.</text>
+<text x="154.8" y="64.0">.</text>
+<text x="162.0" y="64.0">.</text>
+<text x="169.2" y="64.0" textLength="54.0" lengthAdjust="spacing">.-:~,~;~,~*=;,-</text>
+<text x="226.8" y="64.0">.</text>
+<text x="234.0" y="64.0" textLength="46.8" lengthAdjust="spacing">.,,,,,,,:,.,,</text>
+<text x="284.4" y="64.0" textLength="14.4" lengthAdjust="spacing">.-~;</text>
+<text x="435.6" y="64.0" textLength="10.8" lengthAdjust="spacing">--.</text>
+<text x="763.2" y="64.0" textLength="21.6" lengthAdjust="spacing">-~;=*-</text>
+<text x="788.4" y="64.0" textLength="61.2" lengthAdjust="spacing">-::-.-,:,,,:~-.-.</text>
+<text x="853.2" y="64.0" textLength="46.8" lengthAdjust="spacing">,;+*~;;;;;**,</text>
+<text x="903.6" y="64.0" textLength="10.8" lengthAdjust="spacing">.--</text>
+<text x="918.0" y="64.0">.</text>
+<text x="925.2" y="64.0">.</text>
+<text x="932.4" y="64.0">.</text>
+<text x="939.6" y="64.0">.</text>
+<text x="946.8" y="64.0" textLength="10.8" lengthAdjust="spacing">,-.</text>
+<text x="961.2" y="64.0" textLength="25.2" lengthAdjust="spacing">.-,:~,-</text>
+<text x="990.0" y="64.0">.</text>
+<text x="997.2" y="64.0">.</text>
+<text x="1004.4" y="64.0" textLength="10.8" lengthAdjust="spacing">..-</text>
+<text x="1018.8" y="64.0">.</text>
+<text x="1026.0" y="64.0">.</text>
+<text x="1033.2" y="64.0" textLength="28.8" lengthAdjust="spacing">.-------</text>
+<text x="25.2" y="70.4" textLength="36.0" lengthAdjust="spacing">.--------.</text>
+<text x="64.8" y="70.4">.</text>
+<text x="72.0" y="70.4">.</text>
+<text x="79.2" y="70.4">.</text>
+<text x="86.4" y="70.4">.</text>
+<text x="93.6" y="70.4" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="108.0" y="70.4" textLength="54.0" lengthAdjust="spacing">.:*=*;::~;;;,-.</text>
+<text x="165.6" y="70.4" textLength="10.8" lengthAdjust="spacing">-..</text>
+<text x="180.0" y="70.4">.</text>
+<text x="187.2" y="70.4" textLength="136.8" lengthAdjust="spacing">.:::~*+**=+,--..---,,,-.-,,;*~:*==xxx;</text>
+<text x="435.6" y="70.4" textLength="10.8" lengthAdjust="spacing">---</text>
+<text x="630.0" y="70.4" textLength="7.2" lengthAdjust="spacing">,-</text>
+<text x="748.8" y="70.4" textLength="82.8" lengthAdjust="spacing">,=xoxx=;;x=~,,,,,,:~~,.</text>
+<text x="835.2" y="70.4" textLength="54.0" lengthAdjust="spacing">.-,*xx=x=*;;;:.</text>
+<text x="892.8" y="70.4" textLength="90.0" lengthAdjust="spacing">....--..:;*;~~;*+*;,.-,..</text>
+<text x="986.4" y="70.4" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="1000.8" y="70.4">.</text>
+<text x="1008.0" y="70.4">.</text>
+<text x="1015.2" y="70.4">.</text>
+<text x="1022.4" y="70.4">.</text>
+<text x="1029.6" y="70.4" textLength="10.8" lengthAdjust="spacing">.--</text>
+<text x="46.8" y="76.8" textLength="10.8" lengthAdjust="spacing">..-</text>
+<text x="61.2" y="76.8">.</text>
+<text x="68.4" y="76.8">.</text>
+<text x="126.0" y="76.8">.</text>
+<text x="133.2" y="76.8" textLength="61.2" lengthAdjust="spacing">;+*;;;;+=*:-,~,-.</text>
+<text x="198.0" y="76.8" textLength="46.8" lengthAdjust="spacing">.,,,;*~*x=;;:</text>
+<text x="255.6" y="76.8" textLength="75.6" lengthAdjust="spacing">-,,,-----,:;xx*;;+xx=</text>
+<text x="435.6" y="76.8" textLength="14.4" lengthAdjust="spacing">----</text>
+<text x="630.0" y="76.8" textLength="7.2" lengthAdjust="spacing">--</text>
+<text x="741.6" y="76.8" textLength="79.2" lengthAdjust="spacing">+xox=;*xox*;,--:~~:~~-</text>
+<text x="824.4" y="76.8" textLength="50.4" lengthAdjust="spacing">.,;*=ox===;~;-</text>
+<text x="882.0" y="76.8" textLength="68.4" lengthAdjust="spacing">.,;;,,*xx;~*+***~-.</text>
+<text x="1004.4" y="76.8">.</text>
+<text x="1011.6" y="76.8" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="64.8" y="83.2" textLength="18.0" lengthAdjust="spacing">...--</text>
+<text x="86.4" y="83.2">.</text>
+<text x="100.8" y="83.2">.</text>
+<text x="108.0" y="83.2">.</text>
+<text x="115.2" y="83.2">.</text>
+<text x="122.4" y="83.2">.</text>
+<text x="129.6" y="83.2">.</text>
+<text x="136.8" y="83.2">.</text>
+<text x="144.0" y="83.2" textLength="201.6" lengthAdjust="spacing">..:~,;+**++;;;**,...--,;;;=xx*,...--,:,,,,--;==;;;**===;</text>
+<text x="435.6" y="83.2" textLength="18.0" lengthAdjust="spacing">----.</text>
+<text x="626.4" y="83.2" textLength="10.8" lengthAdjust="spacing">---</text>
+<text x="727.2" y="83.2" textLength="133.2" lengthAdjust="spacing">;=xx=**;:*x=~,,,,~;;,-,-.-;xoox==;::,</text>
+<text x="864.0" y="83.2" textLength="68.4" lengthAdjust="spacing">.,;==*;=ox==*;;;,..</text>
+<text x="936.0" y="83.2">.</text>
+<text x="943.2" y="83.2">.</text>
+<text x="950.4" y="83.2">.</text>
+<text x="964.8" y="83.2">.</text>
+<text x="986.4" y="83.2" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="1000.8" y="83.2">.</text>
+<text x="82.8" y="89.6" textLength="10.8" lengthAdjust="spacing">.,-</text>
+<text x="162.0" y="89.6" textLength="104.4" lengthAdjust="spacing">.--,;+==***;+x*,,---,~::*xo=,</text>
+<text x="270.0" y="89.6" textLength="79.2" lengthAdjust="spacing">-..,:~,,:,,;;,-:;;;;**</text>
+<text x="435.6" y="89.6" textLength="18.0" lengthAdjust="spacing">-,,..</text>
+<text x="622.8" y="89.6" textLength="18.0" lengthAdjust="spacing">,---,</text>
+<text x="727.2" y="89.6" textLength="187.2" lengthAdjust="spacing">*;;;;;,,*=~,,,,~;;,----*o%x*;;~::,-,;xoxxxoo===;,,-.</text>
+<text x="918.0" y="89.6">.</text>
+<text x="954.0" y="89.6">.</text>
+<text x="975.6" y="89.6" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="93.6" y="96.0" textLength="10.8" lengthAdjust="spacing">--.</text>
+<text x="108.0" y="96.0">.</text>
+<text x="151.2" y="96.0">.</text>
+<text x="165.6" y="96.0">.</text>
+<text x="172.8" y="96.0">.</text>
+<text x="180.0" y="96.0" textLength="162.0" lengthAdjust="spacing">..,;=x=++**xx;;~-.,,,,*ox;;~..,-.,:~:,-----..</text>
+<text x="432.0" y="96.0" textLength="10.8" lengthAdjust="spacing">.,.</text>
+<text x="446.4" y="96.0" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="619.2" y="96.0" textLength="21.6" lengthAdjust="spacing">,----,</text>
+<text x="734.4" y="96.0" textLength="162.0" lengthAdjust="spacing">.-,,--,,,:~;~,.-,;;x%x;--:,,~;;x%%oooox==;-.-</text>
+<text x="900.0" y="96.0">.</text>
+<text x="907.2" y="96.0">.</text>
+<text x="914.4" y="96.0">.</text>
+<text x="921.6" y="96.0">.</text>
+<text x="928.8" y="96.0">.</text>
+<text x="943.2" y="96.0">.</text>
+<text x="957.6" y="96.0">.</text>
+<text x="964.8" y="96.0" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="104.4" y="102.4" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="183.6" y="102.4">.</text>
+<text x="198.0" y="102.4" textLength="126.0" lengthAdjust="spacing">.~**=x===xx==x=:,-.,;+==*:---,~;~-.</text>
+<text x="327.6" y="102.4">.</text>
+<text x="334.8" y="102.4">.</text>
+<text x="432.0" y="102.4" textLength="7.2" lengthAdjust="spacing">,;</text>
+<text x="450.0" y="102.4" textLength="14.4" lengthAdjust="spacing">.-:-</text>
+<text x="619.2" y="102.4" textLength="7.2" lengthAdjust="spacing">::</text>
+<text x="630.0" y="102.4" textLength="10.8" lengthAdjust="spacing">.-,</text>
+<text x="738.0" y="102.4">.</text>
+<text x="745.2" y="102.4">.</text>
+<text x="752.4" y="102.4" textLength="25.2" lengthAdjust="spacing">-;;;;;-</text>
+<text x="781.2" y="102.4" textLength="97.2" lengthAdjust="spacing">-;xxxx*-..-;xxxo%%oo%%x=*~.</text>
+<text x="882.0" y="102.4">.</text>
+<text x="961.2" y="102.4">.</text>
+<text x="129.6" y="108.8">.</text>
+<text x="144.0" y="108.8">.</text>
+<text x="151.2" y="108.8">.</text>
+<text x="158.4" y="108.8">.</text>
+<text x="165.6" y="108.8">.</text>
+<text x="172.8" y="108.8">.</text>
+<text x="180.0" y="108.8">.</text>
+<text x="187.2" y="108.8">.</text>
+<text x="194.4" y="108.8">.</text>
+<text x="201.6" y="108.8">.</text>
+<text x="208.8" y="108.8" textLength="133.2" lengthAdjust="spacing">.:;;=o=*x%oo%%x;,,-,;+=ox;-,~;;;*;,..</text>
+<text x="432.0" y="108.8" textLength="10.8" lengthAdjust="spacing">,~.</text>
+<text x="446.4" y="108.8" textLength="18.0" lengthAdjust="spacing">..,:.</text>
+<text x="615.6" y="108.8" textLength="14.4" lengthAdjust="spacing">--..</text>
+<text x="633.6" y="108.8" textLength="7.2" lengthAdjust="spacing">.,</text>
+<text x="727.2" y="108.8">.</text>
+<text x="734.4" y="108.8" textLength="140.4" lengthAdjust="spacing">.-;=xx*;~--=%ox*;:-.,+o%%%%%xx#%x=;,...</text>
+<text x="878.4" y="108.8">.</text>
+<text x="885.6" y="108.8">.</text>
+<text x="892.8" y="108.8">.</text>
+<text x="900.0" y="108.8">.</text>
+<text x="907.2" y="108.8">.</text>
+<text x="921.6" y="108.8">.</text>
+<text x="928.8" y="108.8">.</text>
+<text x="936.0" y="108.8">.</text>
+<text x="943.2" y="108.8">.</text>
+<text x="950.4" y="108.8" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="205.2" y="115.2">.</text>
+<text x="219.6" y="115.2">.</text>
+<text x="226.8" y="115.2" textLength="122.4" lengthAdjust="spacing">,*xxx==x%###x*~--,,*x%%=~~;*x%%x;,</text>
+<text x="432.0" y="115.2" textLength="7.2" lengthAdjust="spacing">,~</text>
+<text x="450.0" y="115.2" textLength="14.4" lengthAdjust="spacing">,;~.</text>
+<text x="612.0" y="115.2" textLength="14.4" lengthAdjust="spacing">~:-.</text>
+<text x="637.2" y="115.2">,</text>
+<text x="723.6" y="115.2" textLength="133.2" lengthAdjust="spacing">-:=%#%=;~:*x%%o*~--,;=o###oo%oo%o;,,.</text>
+<text x="860.4" y="115.2">.</text>
+<text x="946.8" y="115.2">.</text>
+<text x="151.2" y="121.6">.</text>
+<text x="158.4" y="121.6">.</text>
+<text x="165.6" y="121.6">.</text>
+<text x="180.0" y="121.6">.</text>
+<text x="187.2" y="121.6">.</text>
+<text x="194.4" y="121.6">.</text>
+<text x="201.6" y="121.6">.</text>
+<text x="208.8" y="121.6">.</text>
+<text x="216.0" y="121.6">.</text>
+<text x="223.2" y="121.6">.</text>
+<text x="230.4" y="121.6">.</text>
+<text x="237.6" y="121.6" textLength="61.2" lengthAdjust="spacing">,+xx==xo%###x*;,-</text>
+<text x="302.4" y="121.6" textLength="54.0" lengthAdjust="spacing">:=%##o=~,*o%%o=</text>
+<text x="432.0" y="121.6" textLength="10.8" lengthAdjust="spacing">-,.</text>
+<text x="453.6" y="121.6" textLength="10.8" lengthAdjust="spacing">,,,</text>
+<text x="529.2" y="121.6" textLength="21.6" lengthAdjust="spacing">xoox*;</text>
+<text x="608.4" y="121.6" textLength="14.4" lengthAdjust="spacing">,;;,</text>
+<text x="626.4" y="121.6">.</text>
+<text x="633.6" y="121.6" textLength="7.2" lengthAdjust="spacing">..</text>
+<text x="712.8" y="121.6" textLength="126.0" lengthAdjust="spacing">,*x%%%=~:+xo##o*,..,;=%####oxxo%o=:</text>
+<text x="842.4" y="121.6" textLength="10.8" lengthAdjust="spacing">-..</text>
+<text x="856.8" y="121.6">.</text>
+<text x="864.0" y="121.6">.</text>
+<text x="871.2" y="121.6">.</text>
+<text x="878.4" y="121.6">.</text>
+<text x="885.6" y="121.6">.</text>
+<text x="900.0" y="121.6">.</text>
+<text x="907.2" y="121.6">.</text>
+<text x="914.4" y="121.6">.</text>
+<text x="921.6" y="121.6">.</text>
+<text x="928.8" y="121.6">.</text>
+<text x="943.2" y="121.6" textLength="7.2" lengthAdjust="spacing">..</text>
+<text x="162.0" y="128.0">.</text>
+<text x="169.2" y="128.0">.</text>
+<text x="234.0" y="128.0">.</text>
+<text x="241.2" y="128.0">.</text>
+<text x="248.4" y="128.0" textLength="111.6" lengthAdjust="spacing">~=xx=xoo%##%o=;-.,;x%##oo=~~=xo</text>
+<text x="432.0" y="128.0" textLength="7.2" lengthAdjust="spacing">-,</text>
+<text x="457.2" y="128.0" textLength="14.4" lengthAdjust="spacing">:;;-</text>
+<text x="507.6" y="128.0" textLength="61.2" lengthAdjust="spacing">.:;=o###@#%%%x*~-</text>
+<text x="604.8" y="128.0" textLength="18.0" lengthAdjust="spacing">-~;;-</text>
+<text x="630.0" y="128.0">.</text>
+<text x="637.2" y="128.0">-</text>
+<text x="709.2" y="128.0" textLength="54.0" lengthAdjust="spacing">xoxx;,~+x###o=:</text>
+<text x="766.8" y="128.0" textLength="61.2" lengthAdjust="spacing">.-:+o##%%#%xo%o=~</text>
+<text x="831.6" y="128.0">.</text>
+<text x="838.8" y="128.0">.</text>
+<text x="846.0" y="128.0">.</text>
+<text x="903.6" y="128.0">.</text>
+<text x="918.0" y="128.0">.</text>
+<text x="144.0" y="134.4">.</text>
+<text x="151.2" y="134.4" textLength="25.2" lengthAdjust="spacing">.......</text>
+<text x="180.0" y="134.4" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="194.4" y="134.4">.</text>
+<text x="201.6" y="134.4">.</text>
+<text x="216.0" y="134.4">.</text>
+<text x="223.2" y="134.4">.</text>
+<text x="230.4" y="134.4">.</text>
+<text x="237.6" y="134.4">.</text>
+<text x="244.8" y="134.4">.</text>
+<text x="252.0" y="134.4" textLength="104.4" lengthAdjust="spacing">.-*xx=xoo%%xx%o~-,-~+xox+:...</text>
+<text x="432.0" y="134.4" textLength="10.8" lengthAdjust="spacing">-,.</text>
+<text x="446.4" y="134.4">.</text>
+<text x="453.6" y="134.4" textLength="18.0" lengthAdjust="spacing">.,:,-</text>
+<text x="475.2" y="134.4">.</text>
+<text x="496.8" y="134.4" textLength="82.8" lengthAdjust="spacing">--,~;x%##@##@@##%o=;,,-</text>
+<text x="590.4" y="134.4">.</text>
+<text x="597.6" y="134.4" textLength="25.2" lengthAdjust="spacing">,;;**;,</text>
+<text x="626.4" y="134.4">.</text>
+<text x="633.6" y="134.4" textLength="7.2" lengthAdjust="spacing">..</text>
+<text x="702.0" y="134.4" textLength="14.4" lengthAdjust="spacing">=;:.</text>
+<text x="720.0" y="134.4" textLength="104.4" lengthAdjust="spacing">..-;=xxx*,..-*o%##%o%oxx%x~-.</text>
+<text x="828.0" y="134.4">.</text>
+<text x="835.2" y="134.4">.</text>
+<text x="842.4" y="134.4">.</text>
+<text x="849.6" y="134.4">.</text>
+<text x="856.8" y="134.4">.</text>
+<text x="864.0" y="134.4">.</text>
+<text x="878.4" y="134.4" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="892.8" y="134.4" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="907.2" y="134.4" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="921.6" y="134.4">.</text>
+<text x="928.8" y="134.4">.</text>
+<text x="936.0" y="134.4" textLength="10.8" lengthAdjust="spacing">.-.</text>
+<text x="147.6" y="140.8">.</text>
+<text x="154.8" y="140.8">.</text>
+<text x="162.0" y="140.8">.</text>
+<text x="169.2" y="140.8">.</text>
+<text x="176.4" y="140.8">.</text>
+<text x="183.6" y="140.8" textLength="25.2" lengthAdjust="spacing">::,,,-.</text>
+<text x="248.4" y="140.8">.</text>
+<text x="262.8" y="140.8" textLength="54.0" lengthAdjust="spacing">.;=+*xoooo%%%=:</text>
+<text x="320.4" y="140.8" textLength="25.2" lengthAdjust="spacing">.:~~~,.</text>
+<text x="432.0" y="140.8" textLength="7.2" lengthAdjust="spacing">.-</text>
+<text x="457.2" y="140.8" textLength="18.0" lengthAdjust="spacing">;+*;,</text>
+<text x="478.8" y="140.8" textLength="18.0" lengthAdjust="spacing">-;;-.</text>
+<text x="500.4" y="140.8" textLength="75.6" lengthAdjust="spacing">..,:*x%#@#@@@@#%=;:,-</text>
+<text x="579.6" y="140.8" textLength="39.6" lengthAdjust="spacing">.-~==~,;+*,</text>
+<text x="637.2" y="140.8">.</text>
+<text x="709.2" y="140.8">.</text>
+<text x="716.4" y="140.8">.</text>
+<text x="723.6" y="140.8">.</text>
+<text x="738.0" y="140.8" textLength="75.6" lengthAdjust="spacing">--.:;~;=xoooooo==%x-.</text>
+<text x="817.2" y="140.8">.</text>
+<text x="824.4" y="140.8">.</text>
+<text x="838.8" y="140.8">.</text>
+<text x="867.6" y="140.8" textLength="39.6" lengthAdjust="spacing">.-,,:~:,:,.</text>
+<text x="910.8" y="140.8">.</text>
+<text x="918.0" y="140.8">.</text>
+<text x="925.2" y="140.8">.</text>
+<text x="939.6" y="140.8">-</text>
+<text x="144.0" y="147.2">.</text>
+<text x="151.2" y="147.2" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="165.6" y="147.2" textLength="61.2" lengthAdjust="spacing">.-,-,,:,,:~~:,,-.</text>
+<text x="237.6" y="147.2">.</text>
+<text x="252.0" y="147.2">.</text>
+<text x="259.2" y="147.2">.</text>
+<text x="266.4" y="147.2">.</text>
+<text x="273.6" y="147.2" textLength="57.6" lengthAdjust="spacing">.~+=+xooox*,,,,.</text>
+<text x="338.4" y="147.2">.</text>
+<text x="345.6" y="147.2">.</text>
+<text x="432.0" y="147.2" textLength="10.8" lengthAdjust="spacing">.-.</text>
+<text x="446.4" y="147.2">.</text>
+<text x="453.6" y="147.2" textLength="39.6" lengthAdjust="spacing">.:**=x~-;~.</text>
+<text x="496.8" y="147.2">.</text>
+<text x="504.0" y="147.2" textLength="75.6" lengthAdjust="spacing">..-,:*x##@##%=;:,-...</text>
+<text x="583.2" y="147.2" textLength="10.8" lengthAdjust="spacing">~=~</text>
+<text x="597.6" y="147.2" textLength="21.6" lengthAdjust="spacing">~+=ox,</text>
+<text x="626.4" y="147.2">.</text>
+<text x="633.6" y="147.2" textLength="7.2" lengthAdjust="spacing">..</text>
+<text x="712.8" y="147.2">.</text>
+<text x="720.0" y="147.2">.</text>
+<text x="727.2" y="147.2">.</text>
+<text x="734.4" y="147.2">.</text>
+<text x="741.6" y="147.2">.</text>
+<text x="748.8" y="147.2" textLength="54.0" lengthAdjust="spacing">..-~+xxooxxxo=-</text>
+<text x="806.4" y="147.2">.</text>
+<text x="813.6" y="147.2">.</text>
+<text x="828.0" y="147.2">.</text>
+<text x="842.4" y="147.2">.</text>
+<text x="849.6" y="147.2" textLength="54.0" lengthAdjust="spacing">.-,,:~~~~~~~:~,</text>
+<text x="907.2" y="147.2" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="921.6" y="147.2">.</text>
+<text x="928.8" y="147.2">.</text>
+<text x="936.0" y="147.2" textLength="10.8" lengthAdjust="spacing">.-.</text>
+<text x="147.6" y="153.6">.</text>
+<text x="154.8" y="153.6">.</text>
+<text x="162.0" y="153.6">.</text>
+<text x="169.2" y="153.6" textLength="68.4" lengthAdjust="spacing">-,:~,,,:~:~~~~~~,,-</text>
+<text x="241.2" y="153.6">.</text>
+<text x="270.0" y="153.6">.</text>
+<text x="280.8" y="153.6" textLength="43.2" lengthAdjust="spacing">-;x+;==*:--.</text>
+<text x="342.0" y="153.6">.</text>
+<text x="435.6" y="153.6">,</text>
+<text x="460.8" y="153.6" textLength="36.0" lengthAdjust="spacing">~ox;xx;~;-</text>
+<text x="500.4" y="153.6">.</text>
+<text x="514.8" y="153.6" textLength="46.8" lengthAdjust="spacing">.-,~=o%o+;,-.</text>
+<text x="565.2" y="153.6">.</text>
+<text x="572.4" y="153.6">.</text>
+<text x="579.6" y="153.6" textLength="39.6" lengthAdjust="spacing">,,,;*+=x=~-</text>
+<text x="637.2" y="153.6">.</text>
+<text x="759.6" y="153.6" textLength="32.4" lengthAdjust="spacing">.-*x==ox;</text>
+<text x="802.8" y="153.6">.</text>
+<text x="831.6" y="153.6">.</text>
+<text x="838.8" y="153.6" textLength="75.6" lengthAdjust="spacing">,,~~~~~~~~~~~~~~,,~,.</text>
+<text x="918.0" y="153.6">.</text>
+<text x="925.2" y="153.6">.</text>
+<text x="136.8" y="160.0" textLength="18.0" lengthAdjust="spacing">.....</text>
+<text x="158.4" y="160.0" textLength="97.2" lengthAdjust="spacing">.-,--:~:,:,:~~~::~;;~,.....</text>
+<text x="259.2" y="160.0">.</text>
+<text x="266.4" y="160.0">.</text>
+<text x="273.6" y="160.0">.</text>
+<text x="280.8" y="160.0">.</text>
+<text x="288.0" y="160.0" textLength="18.0" lengthAdjust="spacing">.,;*~</text>
+<text x="309.6" y="160.0">.</text>
+<text x="316.8" y="160.0">.</text>
+<text x="324.0" y="160.0">.</text>
+<text x="331.2" y="160.0">.</text>
+<text x="338.4" y="160.0">.</text>
+<text x="439.2" y="160.0">.</text>
+<text x="446.4" y="160.0">.</text>
+<text x="453.6" y="160.0">.</text>
+<text x="460.8" y="160.0" textLength="32.4" lengthAdjust="spacing">;%=.;xx=,</text>
+<text x="496.8" y="160.0">.</text>
+<text x="504.0" y="160.0">.</text>
+<text x="511.2" y="160.0">.</text>
+<text x="518.4" y="160.0" textLength="39.6" lengthAdjust="spacing">..-,~;;-...</text>
+<text x="561.6" y="160.0">.</text>
+<text x="568.8" y="160.0">.</text>
+<text x="576.0" y="160.0" textLength="39.6" lengthAdjust="spacing">.,;*ox,;%+.</text>
+<text x="619.2" y="160.0">.</text>
+<text x="626.4" y="160.0">.</text>
+<text x="727.2" y="160.0">.</text>
+<text x="734.4" y="160.0">.</text>
+<text x="748.8" y="160.0">.</text>
+<text x="756.0" y="160.0">.</text>
+<text x="763.2" y="160.0" textLength="25.2" lengthAdjust="spacing">.,*+*:.</text>
+<text x="792.0" y="160.0">.</text>
+<text x="799.2" y="160.0">.</text>
+<text x="806.4" y="160.0">.</text>
+<text x="813.6" y="160.0">.</text>
+<text x="820.8" y="160.0" textLength="97.2" lengthAdjust="spacing">.--...;;;;;;;~~;;;~~~~::-..</text>
+<text x="921.6" y="160.0" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="936.0" y="160.0" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="950.4" y="160.0">.</text>
+<text x="133.2" y="166.4">.</text>
+<text x="140.4" y="166.4">.</text>
+<text x="147.6" y="166.4">.</text>
+<text x="154.8" y="166.4" textLength="82.8" lengthAdjust="spacing">.-,,--,,.,~,,::,:~~~~,.</text>
+<text x="241.2" y="166.4" textLength="25.2" lengthAdjust="spacing">.,,,--.</text>
+<text x="298.8" y="166.4" textLength="10.8" lengthAdjust="spacing">,,.</text>
+<text x="313.2" y="166.4">.</text>
+<text x="320.4" y="166.4">.</text>
+<text x="442.8" y="166.4">.</text>
+<text x="457.2" y="166.4" textLength="39.6" lengthAdjust="spacing">..,*=--=%o*</text>
+<text x="514.8" y="166.4">.</text>
+<text x="522.0" y="166.4">.</text>
+<text x="529.2" y="166.4">.</text>
+<text x="536.4" y="166.4">.</text>
+<text x="543.6" y="166.4">.</text>
+<text x="550.8" y="166.4">.</text>
+<text x="565.2" y="166.4">.</text>
+<text x="576.0" y="166.4" textLength="36.0" lengthAdjust="spacing">-;xo;.,;+~</text>
+<text x="622.8" y="166.4">.</text>
+<text x="630.0" y="166.4">.</text>
+<text x="752.4" y="166.4">.</text>
+<text x="766.8" y="166.4">.</text>
+<text x="774.0" y="166.4" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="802.8" y="166.4" textLength="39.6" lengthAdjust="spacing">..--,,,--,-</text>
+<text x="846.0" y="166.4" textLength="75.6" lengthAdjust="spacing">,;;;~~;~~:~;:,,,,;;:.</text>
+<text x="925.2" y="166.4">.</text>
+<text x="932.4" y="166.4">.</text>
+<text x="939.6" y="166.4">.</text>
+<text x="946.8" y="166.4">.</text>
+<text x="79.2" y="172.8">.</text>
+<text x="93.6" y="172.8">.</text>
+<text x="100.8" y="172.8">.</text>
+<text x="108.0" y="172.8">.</text>
+<text x="115.2" y="172.8">.</text>
+<text x="122.4" y="172.8">.</text>
+<text x="129.6" y="172.8">.</text>
+<text x="136.8" y="172.8" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="151.2" y="172.8" textLength="75.6" lengthAdjust="spacing">-,:,------,,,,,,:,:;,</text>
+<text x="230.4" y="172.8" textLength="46.8" lengthAdjust="spacing">.----...-,,-.</text>
+<text x="280.8" y="172.8">.</text>
+<text x="295.2" y="172.8">.</text>
+<text x="302.4" y="172.8">.</text>
+<text x="309.6" y="172.8" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="324.0" y="172.8">.</text>
+<text x="331.2" y="172.8">.</text>
+<text x="338.4" y="172.8">.</text>
+<text x="439.2" y="172.8" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="453.6" y="172.8">.</text>
+<text x="468.0" y="172.8" textLength="10.8" lengthAdjust="spacing">*o~</text>
+<text x="482.4" y="172.8" textLength="21.6" lengthAdjust="spacing">.,=ox,</text>
+<text x="511.2" y="172.8">.</text>
+<text x="518.4" y="172.8">.</text>
+<text x="532.8" y="172.8">.</text>
+<text x="540.0" y="172.8">.</text>
+<text x="547.2" y="172.8">.</text>
+<text x="554.4" y="172.8">.</text>
+<text x="561.6" y="172.8">.</text>
+<text x="568.8" y="172.8" textLength="39.6" lengthAdjust="spacing">.,*=*,..+*.</text>
+<text x="612.0" y="172.8">.</text>
+<text x="619.2" y="172.8">.</text>
+<text x="626.4" y="172.8">.</text>
+<text x="734.4" y="172.8">.</text>
+<text x="741.6" y="172.8">.</text>
+<text x="748.8" y="172.8">.</text>
+<text x="756.0" y="172.8">.</text>
+<text x="763.2" y="172.8">.</text>
+<text x="770.4" y="172.8">.</text>
+<text x="777.6" y="172.8">.</text>
+<text x="784.8" y="172.8">.</text>
+<text x="799.2" y="172.8" textLength="111.6" lengthAdjust="spacing">.--,-..-,,--.,~~~~~:~~::::,,,-.</text>
+<text x="914.4" y="172.8" textLength="10.8" lengthAdjust="spacing">,,.</text>
+<text x="928.8" y="172.8" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="943.2" y="172.8">.</text>
+<text x="950.4" y="172.8">.</text>
+<text x="957.6" y="172.8">.</text>
+<text x="964.8" y="172.8">.</text>
+<text x="972.0" y="172.8">.</text>
+<text x="986.4" y="172.8">.</text>
+<text x="1000.8" y="172.8">.</text>
+<text x="1015.2" y="172.8">.</text>
+<text x="3.6" y="179.2">.</text>
+<text x="10.8" y="179.2">.</text>
+<text x="18.0" y="179.2">.</text>
+<text x="25.2" y="179.2">.</text>
+<text x="32.4" y="179.2">.</text>
+<text x="54.0" y="179.2">.</text>
+<text x="68.4" y="179.2">.</text>
+<text x="82.8" y="179.2">.</text>
+<text x="126.0" y="179.2">.</text>
+<text x="140.4" y="179.2" textLength="18.0" lengthAdjust="spacing">.-::-</text>
+<text x="162.0" y="179.2" textLength="68.4" lengthAdjust="spacing">.--,,,,,,,,,,,,::,-</text>
+<text x="234.0" y="179.2" textLength="18.0" lengthAdjust="spacing">.---.</text>
+<text x="255.6" y="179.2">.</text>
+<text x="262.8" y="179.2" textLength="10.8" lengthAdjust="spacing">,,-</text>
+<text x="284.4" y="179.2">.</text>
+<text x="298.8" y="179.2">.</text>
+<text x="306.0" y="179.2">.</text>
+<text x="313.2" y="179.2">.</text>
+<text x="320.4" y="179.2">.</text>
+<text x="442.8" y="179.2" textLength="10.8" lengthAdjust="spacing">.,.</text>
+<text x="464.4" y="179.2">.</text>
+<text x="471.6" y="179.2" textLength="10.8" lengthAdjust="spacing">-;~</text>
+<text x="493.2" y="179.2" textLength="14.4" lengthAdjust="spacing">-;*~</text>
+<text x="572.4" y="179.2" textLength="10.8" lengthAdjust="spacing">;;,</text>
+<text x="594.0" y="179.2" textLength="10.8" lengthAdjust="spacing">,;~</text>
+<text x="622.8" y="179.2" textLength="7.2" lengthAdjust="spacing">,-</text>
+<text x="752.4" y="179.2">-</text>
+<text x="766.8" y="179.2">.</text>
+<text x="774.0" y="179.2">.</text>
+<text x="788.4" y="179.2">.</text>
+<text x="799.2" y="179.2" textLength="14.4" lengthAdjust="spacing">.,,.</text>
+<text x="817.2" y="179.2" textLength="18.0" lengthAdjust="spacing">.---.</text>
+<text x="838.8" y="179.2" textLength="10.8" lengthAdjust="spacing">.-.</text>
+<text x="853.2" y="179.2" textLength="75.6" lengthAdjust="spacing">,;:,::::::,,-,~:----.</text>
+<text x="932.4" y="179.2">.</text>
+<text x="939.6" y="179.2">.</text>
+<text x="946.8" y="179.2">.</text>
+<text x="1004.4" y="179.2">.</text>
+<text x="1054.8" y="179.2">.</text>
+<text x="1062.0" y="179.2">.</text>
+<text x="1069.2" y="179.2">.</text>
+<text x="1076.4" y="179.2">.</text>
+<text x="0.0" y="185.6" textLength="54.0" lengthAdjust="spacing">--------.......</text>
+<text x="57.6" y="185.6">.</text>
+<text x="64.8" y="185.6">.</text>
+<text x="72.0" y="185.6">.</text>
+<text x="79.2" y="185.6">.</text>
+<text x="86.4" y="185.6">.</text>
+<text x="100.8" y="185.6">.</text>
+<text x="108.0" y="185.6">.</text>
+<text x="115.2" y="185.6">.</text>
+<text x="122.4" y="185.6">.</text>
+<text x="129.6" y="185.6">.</text>
+<text x="136.8" y="185.6" textLength="118.8" lengthAdjust="spacing">.:,.......-,---,,,,,,:,..--...--.</text>
+<text x="259.2" y="185.6" textLength="18.0" lengthAdjust="spacing">.-,-.</text>
+<text x="280.8" y="185.6" textLength="18.0" lengthAdjust="spacing">--...</text>
+<text x="302.4" y="185.6">.</text>
+<text x="309.6" y="185.6">.</text>
+<text x="316.8" y="185.6">.</text>
+<text x="324.0" y="185.6">.</text>
+<text x="331.2" y="185.6">.</text>
+<text x="338.4" y="185.6" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="446.4" y="185.6" textLength="10.8" lengthAdjust="spacing">-..</text>
+<text x="460.8" y="185.6" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="475.2" y="185.6" textLength="10.8" lengthAdjust="spacing">~;.</text>
+<text x="489.6" y="185.6">.</text>
+<text x="496.8" y="185.6" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="511.2" y="185.6">.</text>
+<text x="518.4" y="185.6">.</text>
+<text x="525.6" y="185.6">.</text>
+<text x="532.8" y="185.6">.</text>
+<text x="540.0" y="185.6">.</text>
+<text x="547.2" y="185.6">.</text>
+<text x="554.4" y="185.6">.</text>
+<text x="561.6" y="185.6" textLength="18.0" lengthAdjust="spacing">..,-.</text>
+<text x="583.2" y="185.6">.</text>
+<text x="590.4" y="185.6" textLength="10.8" lengthAdjust="spacing">,~.</text>
+<text x="604.8" y="185.6">.</text>
+<text x="612.0" y="185.6">.</text>
+<text x="619.2" y="185.6" textLength="10.8" lengthAdjust="spacing">.;,</text>
+<text x="734.4" y="185.6" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="748.8" y="185.6" textLength="10.8" lengthAdjust="spacing">.-.</text>
+<text x="763.2" y="185.6" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="777.6" y="185.6" textLength="39.6" lengthAdjust="spacing">......----.</text>
+<text x="820.8" y="185.6" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="835.2" y="185.6" textLength="10.8" lengthAdjust="spacing">.--</text>
+<text x="849.6" y="185.6" textLength="82.8" lengthAdjust="spacing">.,;,,:,,,,,,,,-.....-..</text>
+<text x="936.0" y="185.6" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="950.4" y="185.6">.</text>
+<text x="957.6" y="185.6">.</text>
+<text x="964.8" y="185.6">.</text>
+<text x="979.2" y="185.6">.</text>
+<text x="986.4" y="185.6">.</text>
+<text x="993.6" y="185.6">.</text>
+<text x="1000.8" y="185.6">.</text>
+<text x="1008.0" y="185.6">.</text>
+<text x="1015.2" y="185.6">.</text>
+<text x="1022.4" y="185.6">.</text>
+<text x="1029.6" y="185.6" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="1044.0" y="185.6">.</text>
+<text x="1051.2" y="185.6" textLength="28.8" lengthAdjust="spacing">...-----</text>
+<text x="18.0" y="192.0">.</text>
+<text x="25.2" y="192.0">.</text>
+<text x="32.4" y="192.0">.</text>
+<text x="39.6" y="192.0">.</text>
+<text x="61.2" y="192.0">.</text>
+<text x="68.4" y="192.0">.</text>
+<text x="104.4" y="192.0">.</text>
+<text x="118.8" y="192.0">.</text>
+<text x="126.0" y="192.0">.</text>
+<text x="133.2" y="192.0" textLength="10.8" lengthAdjust="spacing">---</text>
+<text x="147.6" y="192.0">.</text>
+<text x="154.8" y="192.0">.</text>
+<text x="162.0" y="192.0">.</text>
+<text x="169.2" y="192.0" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="183.6" y="192.0">.</text>
+<text x="190.8" y="192.0" textLength="32.4" lengthAdjust="spacing">.-,,,-,,.</text>
+<text x="226.8" y="192.0" textLength="10.8" lengthAdjust="spacing">--.</text>
+<text x="241.2" y="192.0" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="255.6" y="192.0">.</text>
+<text x="262.8" y="192.0" textLength="10.8" lengthAdjust="spacing">--.</text>
+<text x="277.2" y="192.0" textLength="18.0" lengthAdjust="spacing">.---.</text>
+<text x="298.8" y="192.0" textLength="10.8" lengthAdjust="spacing">..-</text>
+<text x="313.2" y="192.0">.</text>
+<text x="320.4" y="192.0">.</text>
+<text x="327.6" y="192.0">.</text>
+<text x="334.8" y="192.0">.</text>
+<text x="342.0" y="192.0">.</text>
+<text x="450.0" y="192.0" textLength="10.8" lengthAdjust="spacing">.-.</text>
+<text x="464.4" y="192.0">.</text>
+<text x="478.8" y="192.0" textLength="10.8" lengthAdjust="spacing">.:-</text>
+<text x="507.6" y="192.0">.</text>
+<text x="550.8" y="192.0">.</text>
+<text x="565.2" y="192.0">.</text>
+<text x="586.8" y="192.0" textLength="10.8" lengthAdjust="spacing">--.</text>
+<text x="608.4" y="192.0">.</text>
+<text x="615.6" y="192.0" textLength="10.8" lengthAdjust="spacing">--.</text>
+<text x="730.8" y="192.0">.</text>
+<text x="745.2" y="192.0" textLength="10.8" lengthAdjust="spacing">.--</text>
+<text x="763.2" y="192.0" textLength="7.2" lengthAdjust="spacing">--</text>
+<text x="774.0" y="192.0">.</text>
+<text x="781.2" y="192.0">.</text>
+<text x="788.4" y="192.0" textLength="10.8" lengthAdjust="spacing">-..</text>
+<text x="802.8" y="192.0" textLength="18.0" lengthAdjust="spacing">.,,-.</text>
+<text x="824.4" y="192.0">.</text>
+<text x="831.6" y="192.0" textLength="10.8" lengthAdjust="spacing">.--</text>
+<text x="846.0" y="192.0">.</text>
+<text x="853.2" y="192.0" textLength="54.0" lengthAdjust="spacing">-,,,,--,,,,-,-.</text>
+<text x="910.8" y="192.0">.</text>
+<text x="918.0" y="192.0">.</text>
+<text x="925.2" y="192.0">.</text>
+<text x="932.4" y="192.0">.</text>
+<text x="939.6" y="192.0">.</text>
+<text x="954.0" y="192.0">.</text>
+<text x="997.2" y="192.0">.</text>
+<text x="1004.4" y="192.0">.</text>
+<text x="1011.6" y="192.0">.</text>
+<text x="1026.0" y="192.0">.</text>
+<text x="1033.2" y="192.0" textLength="10.8" lengthAdjust="spacing">.-.</text>
+<text x="1054.8" y="192.0">.</text>
+<text x="43.2" y="198.4">.</text>
+<text x="50.4" y="198.4">.</text>
+<text x="64.8" y="198.4">.</text>
+<text x="72.0" y="198.4">.</text>
+<text x="79.2" y="198.4">.</text>
+<text x="86.4" y="198.4">.</text>
+<text x="93.6" y="198.4">.</text>
+<text x="108.0" y="198.4">.</text>
+<text x="122.4" y="198.4" textLength="25.2" lengthAdjust="spacing">..-....</text>
+<text x="151.2" y="198.4">.</text>
+<text x="158.4" y="198.4" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="172.8" y="198.4">.</text>
+<text x="180.0" y="198.4">.</text>
+<text x="187.2" y="198.4" textLength="32.4" lengthAdjust="spacing">....-..--</text>
+<text x="223.2" y="198.4" textLength="10.8" lengthAdjust="spacing">.--</text>
+<text x="237.6" y="198.4" textLength="32.4" lengthAdjust="spacing">..,,----.</text>
+<text x="273.6" y="198.4">.</text>
+<text x="280.8" y="198.4" textLength="10.8" lengthAdjust="spacing">-..</text>
+<text x="295.2" y="198.4" textLength="18.0" lengthAdjust="spacing">.....</text>
+<text x="316.8" y="198.4" textLength="18.0" lengthAdjust="spacing">.-~,.</text>
+<text x="338.4" y="198.4" textLength="14.4" lengthAdjust="spacing">..-.</text>
+<text x="453.6" y="198.4">.</text>
+<text x="460.8" y="198.4">.</text>
+<text x="468.0" y="198.4">.</text>
+<text x="475.2" y="198.4">.</text>
+<text x="482.4" y="198.4" textLength="18.0" lengthAdjust="spacing">.:;-.</text>
+<text x="504.0" y="198.4">.</text>
+<text x="511.2" y="198.4">.</text>
+<text x="518.4" y="198.4">.</text>
+<text x="525.6" y="198.4">.</text>
+<text x="540.0" y="198.4">.</text>
+<text x="547.2" y="198.4">.</text>
+<text x="554.4" y="198.4" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="568.8" y="198.4">.</text>
+<text x="576.0" y="198.4" textLength="18.0" lengthAdjust="spacing">.-;;-</text>
+<text x="597.6" y="198.4">.</text>
+<text x="604.8" y="198.4">.</text>
+<text x="612.0" y="198.4" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="626.4" y="198.4">.</text>
+<text x="727.2" y="198.4" textLength="10.8" lengthAdjust="spacing">-,-</text>
+<text x="741.6" y="198.4">.</text>
+<text x="748.8" y="198.4" textLength="10.8" lengthAdjust="spacing">--.</text>
+<text x="763.2" y="198.4" textLength="18.0" lengthAdjust="spacing">.--..</text>
+<text x="784.8" y="198.4" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="799.2" y="198.4" textLength="54.0" lengthAdjust="spacing">...--..,,-,-...</text>
+<text x="856.8" y="198.4" textLength="46.8" lengthAdjust="spacing">.---.........</text>
+<text x="907.2" y="198.4">.</text>
+<text x="914.4" y="198.4">.</text>
+<text x="928.8" y="198.4">.</text>
+<text x="936.0" y="198.4">.</text>
+<text x="943.2" y="198.4" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="957.6" y="198.4">.</text>
+<text x="972.0" y="198.4">.</text>
+<text x="979.2" y="198.4">.</text>
+<text x="986.4" y="198.4">.</text>
+<text x="1000.8" y="198.4">.</text>
+<text x="1015.2" y="198.4">.</text>
+<text x="1022.4" y="198.4">.</text>
+<text x="54.0" y="204.8">.</text>
+<text x="111.6" y="204.8">.</text>
+<text x="118.8" y="204.8">.</text>
+<text x="126.0" y="204.8">.</text>
+<text x="154.8" y="204.8">.</text>
+<text x="169.2" y="204.8">.</text>
+<text x="183.6" y="204.8">.</text>
+<text x="190.8" y="204.8">.</text>
+<text x="198.0" y="204.8">.</text>
+<text x="205.2" y="204.8">.</text>
+<text x="212.4" y="204.8">.</text>
+<text x="219.6" y="204.8">.</text>
+<text x="226.8" y="204.8">.</text>
+<text x="234.0" y="204.8">.</text>
+<text x="241.2" y="204.8" textLength="10.8" lengthAdjust="spacing">.-.</text>
+<text x="255.6" y="204.8" textLength="10.8" lengthAdjust="spacing">-,,</text>
+<text x="280.8" y="204.8" textLength="7.2" lengthAdjust="spacing">--</text>
+<text x="298.8" y="204.8">.</text>
+<text x="306.0" y="204.8">.</text>
+<text x="320.4" y="204.8" textLength="10.8" lengthAdjust="spacing">.,.</text>
+<text x="334.8" y="204.8" textLength="10.8" lengthAdjust="spacing">.-.</text>
+<text x="349.2" y="204.8">.</text>
+<text x="450.0" y="204.8" textLength="10.8" lengthAdjust="spacing">.,.</text>
+<text x="471.6" y="204.8">.</text>
+<text x="478.8" y="204.8" textLength="18.0" lengthAdjust="spacing">.-,,-</text>
+<text x="500.4" y="204.8">.</text>
+<text x="543.6" y="204.8">.</text>
+<text x="550.8" y="204.8">.</text>
+<text x="558.0" y="204.8">.</text>
+<text x="572.4" y="204.8" textLength="25.2" lengthAdjust="spacing">.,.-~,.</text>
+<text x="601.2" y="204.8">.</text>
+<text x="615.6" y="204.8">.</text>
+<text x="723.6" y="204.8">-</text>
+<text x="730.8" y="204.8">.</text>
+<text x="738.0" y="204.8" textLength="18.0" lengthAdjust="spacing">.,;~-</text>
+<text x="766.8" y="204.8">.</text>
+<text x="774.0" y="204.8">.</text>
+<text x="788.4" y="204.8">-</text>
+<text x="795.6" y="204.8">.</text>
+<text x="802.8" y="204.8" textLength="25.2" lengthAdjust="spacing">.-,,---</text>
+<text x="831.6" y="204.8">.</text>
+<text x="838.8" y="204.8">.</text>
+<text x="846.0" y="204.8">.</text>
+<text x="860.4" y="204.8">.</text>
+<text x="867.6" y="204.8">.</text>
+<text x="874.8" y="204.8">.</text>
+<text x="903.6" y="204.8">.</text>
+<text x="932.4" y="204.8">.</text>
+<text x="954.0" y="204.8">.</text>
+<text x="961.2" y="204.8">.</text>
+<text x="72.0" y="211.2">.</text>
+<text x="100.8" y="211.2">.</text>
+<text x="108.0" y="211.2">.</text>
+<text x="115.2" y="211.2">.</text>
+<text x="129.6" y="211.2">.</text>
+<text x="136.8" y="211.2">.</text>
+<text x="144.0" y="211.2">.</text>
+<text x="151.2" y="211.2">.</text>
+<text x="158.4" y="211.2">.</text>
+<text x="172.8" y="211.2">.</text>
+<text x="180.0" y="211.2">.</text>
+<text x="187.2" y="211.2">.</text>
+<text x="208.8" y="211.2">.</text>
+<text x="230.4" y="211.2">.</text>
+<text x="237.6" y="211.2">.</text>
+<text x="244.8" y="211.2">.</text>
+<text x="252.0" y="211.2">.</text>
+<text x="259.2" y="211.2" textLength="10.8" lengthAdjust="spacing">.-.</text>
+<text x="273.6" y="211.2" textLength="25.2" lengthAdjust="spacing">..-,~-.</text>
+<text x="302.4" y="211.2" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="316.8" y="211.2" textLength="43.2" lengthAdjust="spacing">...,,..-.-;~</text>
+<text x="450.0" y="211.2" textLength="7.2" lengthAdjust="spacing">.-</text>
+<text x="460.8" y="211.2">.</text>
+<text x="468.0" y="211.2">.</text>
+<text x="475.2" y="211.2">.</text>
+<text x="482.4" y="211.2" textLength="25.2" lengthAdjust="spacing">.;+;,,.</text>
+<text x="518.4" y="211.2" textLength="10.8" lengthAdjust="spacing">.-,</text>
+<text x="532.8" y="211.2">.</text>
+<text x="540.0" y="211.2" textLength="18.0" lengthAdjust="spacing">..-..</text>
+<text x="561.6" y="211.2" textLength="32.4" lengthAdjust="spacing">...,;**;.</text>
+<text x="597.6" y="211.2">.</text>
+<text x="604.8" y="211.2">.</text>
+<text x="612.0" y="211.2" textLength="10.8" lengthAdjust="spacing">.--</text>
+<text x="626.4" y="211.2">.</text>
+<text x="716.4" y="211.2" textLength="43.2" lengthAdjust="spacing">~,,---,-.--.</text>
+<text x="763.2" y="211.2">.</text>
+<text x="770.4" y="211.2">.</text>
+<text x="777.6" y="211.2" textLength="25.2" lengthAdjust="spacing">.,-....</text>
+<text x="806.4" y="211.2" textLength="18.0" lengthAdjust="spacing">--...</text>
+<text x="828.0" y="211.2">.</text>
+<text x="835.2" y="211.2">.</text>
+<text x="849.6" y="211.2">.</text>
+<text x="856.8" y="211.2">.</text>
+<text x="864.0" y="211.2">.</text>
+<text x="878.4" y="211.2">.</text>
+<text x="900.0" y="211.2">.</text>
+<text x="907.2" y="211.2">.</text>
+<text x="921.6" y="211.2">.</text>
+<text x="928.8" y="211.2">.</text>
+<text x="936.0" y="211.2">.</text>
+<text x="943.2" y="211.2">.</text>
+<text x="957.6" y="211.2">.</text>
+<text x="964.8" y="211.2">.</text>
+<text x="979.2" y="211.2">.</text>
+<text x="993.6" y="211.2">.</text>
+<text x="1000.8" y="211.2">.</text>
+<text x="262.8" y="217.6">.</text>
+<text x="277.2" y="217.6">.</text>
+<text x="284.4" y="217.6">.</text>
+<text x="291.6" y="217.6" textLength="18.0" lengthAdjust="spacing">-,,-.</text>
+<text x="313.2" y="217.6">.</text>
+<text x="320.4" y="217.6" textLength="32.4" lengthAdjust="spacing">------:,-</text>
+<text x="356.4" y="217.6" textLength="7.2" lengthAdjust="spacing">,*</text>
+<text x="446.4" y="217.6" textLength="14.4" lengthAdjust="spacing">~~,.</text>
+<text x="464.4" y="217.6">.</text>
+<text x="471.6" y="217.6">.</text>
+<text x="486.0" y="217.6" textLength="25.2" lengthAdjust="spacing">,x##%=;</text>
+<text x="514.8" y="217.6">.</text>
+<text x="522.0" y="217.6">.</text>
+<text x="529.2" y="217.6" textLength="10.8" lengthAdjust="spacing">.-.</text>
+<text x="543.6" y="217.6" textLength="10.8" lengthAdjust="spacing">--.</text>
+<text x="561.6" y="217.6" textLength="28.8" lengthAdjust="spacing">.;x%##x.</text>
+<text x="601.2" y="217.6" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="615.6" y="217.6" textLength="10.8" lengthAdjust="spacing">-::</text>
+<text x="712.8" y="217.6" textLength="50.4" lengthAdjust="spacing">;;,--..,,----.</text>
+<text x="766.8" y="217.6">.</text>
+<text x="774.0" y="217.6" textLength="10.8" lengthAdjust="spacing">-..</text>
+<text x="788.4" y="217.6" textLength="10.8" lengthAdjust="spacing">--.</text>
+<text x="810.0" y="217.6">.</text>
+<text x="93.6" y="224.0">.</text>
+<text x="165.6" y="224.0">.</text>
+<text x="180.0" y="224.0">.</text>
+<text x="201.6" y="224.0">.</text>
+<text x="208.8" y="224.0">.</text>
+<text x="216.0" y="224.0">.</text>
+<text x="223.2" y="224.0">.</text>
+<text x="237.6" y="224.0">.</text>
+<text x="252.0" y="224.0">.</text>
+<text x="280.8" y="224.0">.</text>
+<text x="288.0" y="224.0">.</text>
+<text x="295.2" y="224.0" textLength="10.8" lengthAdjust="spacing">.:,</text>
+<text x="309.6" y="224.0" textLength="32.4" lengthAdjust="spacing">.....-,~,</text>
+<text x="345.6" y="224.0" textLength="25.2" lengthAdjust="spacing">.~~,,;*</text>
+<text x="450.0" y="224.0" textLength="14.4" lengthAdjust="spacing">-;;,</text>
+<text x="468.0" y="224.0" textLength="18.0" lengthAdjust="spacing">..-..</text>
+<text x="489.6" y="224.0" textLength="32.4" lengthAdjust="spacing">.-;xoo=~.</text>
+<text x="525.6" y="224.0" textLength="10.8" lengthAdjust="spacing">..-</text>
+<text x="540.0" y="224.0" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="554.4" y="224.0" textLength="32.4" lengthAdjust="spacing">.;xoo+:-.</text>
+<text x="590.4" y="224.0">.</text>
+<text x="597.6" y="224.0" textLength="25.2" lengthAdjust="spacing">...-,,-</text>
+<text x="709.2" y="224.0" textLength="57.6" lengthAdjust="spacing">*,.:~,,:,,,---..</text>
+<text x="770.4" y="224.0" textLength="10.8" lengthAdjust="spacing">-,-</text>
+<text x="799.2" y="224.0">.</text>
+<text x="820.8" y="224.0">.</text>
+<text x="856.8" y="224.0">.</text>
+<text x="900.0" y="224.0">.</text>
+<text x="928.8" y="224.0">.</text>
+<text x="972.0" y="224.0">.</text>
+<text x="97.2" y="230.4">.</text>
+<text x="298.8" y="230.4">.</text>
+<text x="306.0" y="230.4" textLength="18.0" lengthAdjust="spacing">-,,-.</text>
+<text x="327.6" y="230.4" textLength="46.8" lengthAdjust="spacing">.,,~;,.-:,,~=</text>
+<text x="457.2" y="230.4" textLength="10.8" lengthAdjust="spacing">-,-</text>
+<text x="471.6" y="230.4" textLength="10.8" lengthAdjust="spacing">.-,</text>
+<text x="486.0" y="230.4">.</text>
+<text x="493.2" y="230.4">.</text>
+<text x="514.8" y="230.4">.</text>
+<text x="536.4" y="230.4">.</text>
+<text x="558.0" y="230.4">.</text>
+<text x="565.2" y="230.4">.</text>
+<text x="572.4" y="230.4">.</text>
+<text x="579.6" y="230.4">.</text>
+<text x="586.8" y="230.4">-</text>
+<text x="594.0" y="230.4">.</text>
+<text x="601.2" y="230.4">.</text>
+<text x="608.4" y="230.4" textLength="10.8" lengthAdjust="spacing">,,.</text>
+<text x="633.6" y="230.4" textLength="7.2" lengthAdjust="spacing">-;</text>
+<text x="702.0" y="230.4" textLength="75.6" lengthAdjust="spacing">x*-;*:--,:,,,--,,,:,.</text>
+<text x="115.2" y="236.8">.</text>
+<text x="122.4" y="236.8">.</text>
+<text x="129.6" y="236.8">.</text>
+<text x="136.8" y="236.8">.</text>
+<text x="144.0" y="236.8">.</text>
+<text x="151.2" y="236.8">.</text>
+<text x="158.4" y="236.8">.</text>
+<text x="165.6" y="236.8">.</text>
+<text x="172.8" y="236.8">.</text>
+<text x="187.2" y="236.8">.</text>
+<text x="201.6" y="236.8">.</text>
+<text x="208.8" y="236.8">.</text>
+<text x="216.0" y="236.8">.</text>
+<text x="223.2" y="236.8">.</text>
+<text x="230.4" y="236.8">.</text>
+<text x="237.6" y="236.8">.</text>
+<text x="244.8" y="236.8">.</text>
+<text x="252.0" y="236.8">.</text>
+<text x="259.2" y="236.8">.</text>
+<text x="273.6" y="236.8">.</text>
+<text x="288.0" y="236.8">.</text>
+<text x="295.2" y="236.8">.</text>
+<text x="309.6" y="236.8" textLength="72.0" lengthAdjust="spacing">.~;;,---,~~:-,;;,~+x</text>
+<text x="435.6" y="236.8" textLength="14.4" lengthAdjust="spacing">==~.</text>
+<text x="460.8" y="236.8" textLength="10.8" lengthAdjust="spacing">-..</text>
+<text x="475.2" y="236.8">.</text>
+<text x="482.4" y="236.8" textLength="32.4" lengthAdjust="spacing">.-,--~:..</text>
+<text x="518.4" y="236.8">.</text>
+<text x="525.6" y="236.8">.</text>
+<text x="532.8" y="236.8" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="547.2" y="236.8">.</text>
+<text x="554.4" y="236.8">.</text>
+<text x="561.6" y="236.8" textLength="32.4" lengthAdjust="spacing">.,;~,--,.</text>
+<text x="597.6" y="236.8">.</text>
+<text x="604.8" y="236.8" textLength="10.8" lengthAdjust="spacing">.-.</text>
+<text x="626.4" y="236.8" textLength="14.4" lengthAdjust="spacing">.,**</text>
+<text x="691.2" y="236.8" textLength="75.6" lengthAdjust="spacing">=x=~~;,.,~;,----~*;,.</text>
+<text x="777.6" y="236.8">.</text>
+<text x="792.0" y="236.8">.</text>
+<text x="813.6" y="236.8">.</text>
+<text x="820.8" y="236.8">.</text>
+<text x="828.0" y="236.8">.</text>
+<text x="835.2" y="236.8">.</text>
+<text x="842.4" y="236.8">.</text>
+<text x="849.6" y="236.8">.</text>
+<text x="878.4" y="236.8">.</text>
+<text x="907.2" y="236.8">.</text>
+<text x="928.8" y="236.8">.</text>
+<text x="936.0" y="236.8">.</text>
+<text x="964.8" y="236.8">.</text>
+<text x="176.4" y="243.2">.</text>
+<text x="248.4" y="243.2">.</text>
+<text x="255.6" y="243.2">.</text>
+<text x="320.4" y="243.2" textLength="68.4" lengthAdjust="spacing">,~~,;~-,~;~-~=;,;x%</text>
+<text x="435.6" y="243.2" textLength="18.0" lengthAdjust="spacing">=;*x;</text>
+<text x="457.2" y="243.2" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="471.6" y="243.2" textLength="10.8" lengthAdjust="spacing">-~~</text>
+<text x="500.4" y="243.2" textLength="10.8" lengthAdjust="spacing">.-.</text>
+<text x="522.0" y="243.2">.</text>
+<text x="536.4" y="243.2">.</text>
+<text x="565.2" y="243.2" textLength="10.8" lengthAdjust="spacing">,,.</text>
+<text x="579.6" y="243.2">.</text>
+<text x="590.4" y="243.2" textLength="14.4" lengthAdjust="spacing">-:,.</text>
+<text x="608.4" y="243.2" textLength="10.8" lengthAdjust="spacing">.-.</text>
+<text x="622.8" y="243.2" textLength="18.0" lengthAdjust="spacing">,;=x*</text>
+<text x="684.0" y="243.2" textLength="72.0" lengthAdjust="spacing">:*+~~**:,~;:-,;;;+;-</text>
+<text x="115.2" y="249.6">.</text>
+<text x="122.4" y="249.6">.</text>
+<text x="129.6" y="249.6">.</text>
+<text x="136.8" y="249.6">.</text>
+<text x="151.2" y="249.6">.</text>
+<text x="158.4" y="249.6">.</text>
+<text x="165.6" y="249.6">.</text>
+<text x="172.8" y="249.6">.</text>
+<text x="180.0" y="249.6">.</text>
+<text x="194.4" y="249.6">.</text>
+<text x="208.8" y="249.6">.</text>
+<text x="237.6" y="249.6">.</text>
+<text x="244.8" y="249.6">.</text>
+<text x="252.0" y="249.6">.</text>
+<text x="259.2" y="249.6">.</text>
+<text x="266.4" y="249.6">.</text>
+<text x="273.6" y="249.6">.</text>
+<text x="280.8" y="249.6">.</text>
+<text x="288.0" y="249.6">.</text>
+<text x="324.0" y="249.6">.</text>
+<text x="331.2" y="249.6" textLength="61.2" lengthAdjust="spacing">--,~:-.,~:,*=;,~x</text>
+<text x="439.2" y="249.6" textLength="32.4" lengthAdjust="spacing">~x#x~**;.</text>
+<text x="475.2" y="249.6" textLength="14.4" lengthAdjust="spacing">-:~.</text>
+<text x="496.8" y="249.6">.</text>
+<text x="511.2" y="249.6">.</text>
+<text x="518.4" y="249.6">.</text>
+<text x="540.0" y="249.6">.</text>
+<text x="547.2" y="249.6">.</text>
+<text x="554.4" y="249.6">.</text>
+<text x="561.6" y="249.6">.</text>
+<text x="576.0" y="249.6">.</text>
+<text x="583.2" y="249.6" textLength="18.0" lengthAdjust="spacing">..~~.</text>
+<text x="604.8" y="249.6" textLength="10.8" lengthAdjust="spacing">.,~</text>
+<text x="619.2" y="249.6" textLength="21.6" lengthAdjust="spacing">;#%~--</text>
+<text x="676.8" y="249.6" textLength="68.4" lengthAdjust="spacing">o%;,;+*:,,,..:*;,,-</text>
+<text x="770.4" y="249.6">.</text>
+<text x="784.8" y="249.6">.</text>
+<text x="792.0" y="249.6">.</text>
+<text x="799.2" y="249.6">.</text>
+<text x="806.4" y="249.6">.</text>
+<text x="813.6" y="249.6">.</text>
+<text x="900.0" y="249.6">.</text>
+<text x="921.6" y="249.6" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="943.2" y="249.6">.</text>
+<text x="950.4" y="249.6">.</text>
+<text x="140.4" y="256.0">.</text>
+<text x="154.8" y="256.0">.</text>
+<text x="169.2" y="256.0">.</text>
+<text x="176.4" y="256.0">.</text>
+<text x="284.4" y="256.0">.</text>
+<text x="342.0" y="256.0" textLength="57.6" lengthAdjust="spacing">,;*+;:~;::+x=~,*</text>
+<text x="435.6" y="256.0" textLength="25.2" lengthAdjust="spacing">.~;*%#*</text>
+<text x="464.4" y="256.0" textLength="10.8" lengthAdjust="spacing">~~-</text>
+<text x="478.8" y="256.0" textLength="10.8" lengthAdjust="spacing">.:,</text>
+<text x="583.2" y="256.0" textLength="14.4" lengthAdjust="spacing">.;,.</text>
+<text x="601.2" y="256.0" textLength="39.6" lengthAdjust="spacing">.-,;*x%o*,.</text>
+<text x="644.4" y="256.0">.</text>
+<text x="669.6" y="256.0" textLength="57.6" lengthAdjust="spacing">+x;,*+*:-~~~+oo=</text>
+<text x="730.8" y="256.0">.</text>
+<text x="745.2" y="256.0">.</text>
+<text x="788.4" y="256.0">.</text>
+<text x="802.8" y="256.0">.</text>
+<text x="918.0" y="256.0">.</text>
+<text x="946.8" y="256.0">.</text>
+<text x="118.8" y="262.4">.</text>
+<text x="129.6" y="262.4" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="144.0" y="262.4">.</text>
+<text x="151.2" y="262.4">.</text>
+<text x="158.4" y="262.4" textLength="10.8" lengthAdjust="spacing">~~.</text>
+<text x="172.8" y="262.4" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="187.2" y="262.4" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="201.6" y="262.4">.</text>
+<text x="230.4" y="262.4">.</text>
+<text x="244.8" y="262.4">.</text>
+<text x="259.2" y="262.4">.</text>
+<text x="266.4" y="262.4">.</text>
+<text x="273.6" y="262.4" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="288.0" y="262.4">.</text>
+<text x="295.2" y="262.4">.</text>
+<text x="302.4" y="262.4">.</text>
+<text x="309.6" y="262.4">.</text>
+<text x="316.8" y="262.4" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="331.2" y="262.4">.</text>
+<text x="338.4" y="262.4">.</text>
+<text x="345.6" y="262.4" textLength="82.8" lengthAdjust="spacing">-:**;~;*;~:;=x*~;**;,,.</text>
+<text x="432.0" y="262.4">.</text>
+<text x="439.2" y="262.4" textLength="39.6" lengthAdjust="spacing">..:*==;--,.</text>
+<text x="482.4" y="262.4">.</text>
+<text x="489.6" y="262.4">.</text>
+<text x="496.8" y="262.4">.</text>
+<text x="504.0" y="262.4">.</text>
+<text x="518.4" y="262.4">.</text>
+<text x="525.6" y="262.4">.</text>
+<text x="532.8" y="262.4">.</text>
+<text x="540.0" y="262.4">.</text>
+<text x="547.2" y="262.4">.</text>
+<text x="554.4" y="262.4">.</text>
+<text x="561.6" y="262.4">.</text>
+<text x="576.0" y="262.4">.</text>
+<text x="583.2" y="262.4" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="597.6" y="262.4" textLength="32.4" lengthAdjust="spacing">--..~xx*,</text>
+<text x="633.6" y="262.4" textLength="104.4" lengthAdjust="spacing">....-.-;*;~;==;:,~;;=oo=;:,..</text>
+<text x="741.6" y="262.4">.</text>
+<text x="748.8" y="262.4" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="763.2" y="262.4" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="777.6" y="262.4" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="792.0" y="262.4">.</text>
+<text x="799.2" y="262.4">.</text>
+<text x="806.4" y="262.4">.</text>
+<text x="820.8" y="262.4">.</text>
+<text x="849.6" y="262.4">.</text>
+<text x="864.0" y="262.4">.</text>
+<text x="878.4" y="262.4">.</text>
+<text x="885.6" y="262.4">.</text>
+<text x="892.8" y="262.4">.</text>
+<text x="907.2" y="262.4">.</text>
+<text x="914.4" y="262.4">.</text>
+<text x="921.6" y="262.4" textLength="25.2" lengthAdjust="spacing">.......</text>
+<text x="133.2" y="268.8">.</text>
+<text x="140.4" y="268.8">.</text>
+<text x="147.6" y="268.8">.</text>
+<text x="154.8" y="268.8" textLength="25.2" lengthAdjust="spacing">.,*x*-.</text>
+<text x="183.6" y="268.8">.</text>
+<text x="190.8" y="268.8">.</text>
+<text x="277.2" y="268.8">.</text>
+<text x="284.4" y="268.8">.</text>
+<text x="291.6" y="268.8">.</text>
+<text x="306.0" y="268.8">.</text>
+<text x="349.2" y="268.8" textLength="90.0" lengthAdjust="spacing">.,~;**~~;;;,~xo==xo=~,~,.</text>
+<text x="450.0" y="268.8" textLength="18.0" lengthAdjust="spacing">.,:,.</text>
+<text x="478.8" y="268.8">.</text>
+<text x="507.6" y="268.8">.</text>
+<text x="529.2" y="268.8">.</text>
+<text x="536.4" y="268.8">.</text>
+<text x="543.6" y="268.8">-</text>
+<text x="608.4" y="268.8" textLength="18.0" lengthAdjust="spacing">:;~-.</text>
+<text x="630.0" y="268.8">.</text>
+<text x="637.2" y="268.8" textLength="90.0" lengthAdjust="spacing">.,--+oxo%%o*--:;;+xx*;;,-</text>
+<text x="738.0" y="268.8">.</text>
+<text x="745.2" y="268.8">.</text>
+<text x="752.4" y="268.8">.</text>
+<text x="759.6" y="268.8">.</text>
+<text x="766.8" y="268.8">.</text>
+<text x="774.0" y="268.8">.</text>
+<text x="781.2" y="268.8">.</text>
+<text x="802.8" y="268.8">.</text>
+<text x="907.2" y="268.8" textLength="21.6" lengthAdjust="spacing">-~,-..</text>
+<text x="932.4" y="268.8" textLength="14.4" lengthAdjust="spacing">,:~-</text>
+<text x="122.4" y="275.2">.</text>
+<text x="129.6" y="275.2">.</text>
+<text x="136.8" y="275.2" textLength="10.8" lengthAdjust="spacing">-..</text>
+<text x="151.2" y="275.2" textLength="39.6" lengthAdjust="spacing">...;%%x*,-.</text>
+<text x="194.4" y="275.2">.</text>
+<text x="201.6" y="275.2">.</text>
+<text x="208.8" y="275.2">.</text>
+<text x="223.2" y="275.2">.</text>
+<text x="237.6" y="275.2">.</text>
+<text x="252.0" y="275.2">.</text>
+<text x="273.6" y="275.2">.</text>
+<text x="280.8" y="275.2">.</text>
+<text x="288.0" y="275.2">.</text>
+<text x="295.2" y="275.2">.</text>
+<text x="302.4" y="275.2">.</text>
+<text x="309.6" y="275.2">.</text>
+<text x="324.0" y="275.2">.</text>
+<text x="331.2" y="275.2">.</text>
+<text x="338.4" y="275.2">.</text>
+<text x="345.6" y="275.2">.</text>
+<text x="352.8" y="275.2" textLength="97.2" lengthAdjust="spacing">.-:~~;~-,;;,.-;*=xxx*,.....</text>
+<text x="453.6" y="275.2">.</text>
+<text x="460.8" y="275.2">.</text>
+<text x="468.0" y="275.2">.</text>
+<text x="475.2" y="275.2">.</text>
+<text x="482.4" y="275.2">.</text>
+<text x="489.6" y="275.2">.</text>
+<text x="496.8" y="275.2">.</text>
+<text x="504.0" y="275.2">.</text>
+<text x="511.2" y="275.2">.</text>
+<text x="525.6" y="275.2" textLength="25.2" lengthAdjust="spacing">.,~~~~-</text>
+<text x="554.4" y="275.2">.</text>
+<text x="561.6" y="275.2">.</text>
+<text x="568.8" y="275.2">.</text>
+<text x="590.4" y="275.2">.</text>
+<text x="597.6" y="275.2">.</text>
+<text x="604.8" y="275.2">.</text>
+<text x="612.0" y="275.2" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="626.4" y="275.2" textLength="97.2" lengthAdjust="spacing">.,---;xo%ox=~-:;;:~=x*;~,-.</text>
+<text x="727.2" y="275.2" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="741.6" y="275.2">.</text>
+<text x="748.8" y="275.2" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="763.2" y="275.2">.</text>
+<text x="770.4" y="275.2" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="784.8" y="275.2">.</text>
+<text x="792.0" y="275.2">.</text>
+<text x="799.2" y="275.2">.</text>
+<text x="885.6" y="275.2">.</text>
+<text x="900.0" y="275.2" textLength="46.8" lengthAdjust="spacing">-;;;~;;~,~;*~</text>
+<text x="126.0" y="281.6">.</text>
+<text x="133.2" y="281.6" textLength="10.8" lengthAdjust="spacing">.--</text>
+<text x="147.6" y="281.6" textLength="10.8" lengthAdjust="spacing">.--</text>
+<text x="162.0" y="281.6" textLength="32.4" lengthAdjust="spacing">~x##%o=;-</text>
+<text x="198.0" y="281.6">.</text>
+<text x="205.2" y="281.6">.</text>
+<text x="270.0" y="281.6">.</text>
+<text x="298.8" y="281.6">.</text>
+<text x="306.0" y="281.6">.</text>
+<text x="313.2" y="281.6">.</text>
+<text x="342.0" y="281.6">.</text>
+<text x="349.2" y="281.6">.</text>
+<text x="356.4" y="281.6">.</text>
+<text x="363.6" y="281.6" textLength="18.0" lengthAdjust="spacing">.---.</text>
+<text x="385.2" y="281.6">.</text>
+<text x="392.4" y="281.6" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="410.4" y="281.6" textLength="21.6" lengthAdjust="spacing">-,~~;~</text>
+<text x="442.8" y="281.6">.</text>
+<text x="457.2" y="281.6">.</text>
+<text x="471.6" y="281.6">.</text>
+<text x="529.2" y="281.6" textLength="18.0" lengthAdjust="spacing">-;*~.</text>
+<text x="615.6" y="281.6">.</text>
+<text x="637.2" y="281.6" textLength="68.4" lengthAdjust="spacing">.~;;;~:-.,~,--,:~:-</text>
+<text x="709.2" y="281.6">.</text>
+<text x="716.4" y="281.6" textLength="10.8" lengthAdjust="spacing">.--</text>
+<text x="730.8" y="281.6">.</text>
+<text x="745.2" y="281.6">.</text>
+<text x="752.4" y="281.6">.</text>
+<text x="766.8" y="281.6">.</text>
+<text x="774.0" y="281.6">.</text>
+<text x="788.4" y="281.6">.</text>
+<text x="896.4" y="281.6" textLength="50.4" lengthAdjust="spacing">,+x=~;+=;,;=*:</text>
+<text x="126.0" y="288.0" textLength="7.2" lengthAdjust="spacing">..</text>
+<text x="136.8" y="288.0" textLength="82.8" lengthAdjust="spacing">..---..-;%@@%==x=*;;~:-</text>
+<text x="230.4" y="288.0">.</text>
+<text x="244.8" y="288.0">.</text>
+<text x="273.6" y="288.0">.</text>
+<text x="280.8" y="288.0">.</text>
+<text x="288.0" y="288.0">.</text>
+<text x="295.2" y="288.0">.</text>
+<text x="302.4" y="288.0">.</text>
+<text x="309.6" y="288.0">.</text>
+<text x="316.8" y="288.0">.</text>
+<text x="324.0" y="288.0">.</text>
+<text x="331.2" y="288.0">.</text>
+<text x="338.4" y="288.0">.</text>
+<text x="345.6" y="288.0" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="360.0" y="288.0">.</text>
+<text x="367.2" y="288.0" textLength="25.2" lengthAdjust="spacing">....-..</text>
+<text x="396.0" y="288.0">.</text>
+<text x="403.2" y="288.0">.</text>
+<text x="410.4" y="288.0">.</text>
+<text x="417.6" y="288.0" textLength="10.8" lengthAdjust="spacing">.,-</text>
+<text x="432.0" y="288.0">.</text>
+<text x="439.2" y="288.0">.</text>
+<text x="446.4" y="288.0">.</text>
+<text x="453.6" y="288.0">.</text>
+<text x="460.8" y="288.0">.</text>
+<text x="468.0" y="288.0">.</text>
+<text x="475.2" y="288.0">.</text>
+<text x="482.4" y="288.0">.</text>
+<text x="489.6" y="288.0">.</text>
+<text x="496.8" y="288.0">.</text>
+<text x="504.0" y="288.0">.</text>
+<text x="511.2" y="288.0">.</text>
+<text x="518.4" y="288.0">.</text>
+<text x="525.6" y="288.0">.</text>
+<text x="532.8" y="288.0" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="547.2" y="288.0">.</text>
+<text x="554.4" y="288.0">.</text>
+<text x="561.6" y="288.0">.</text>
+<text x="568.8" y="288.0">.</text>
+<text x="576.0" y="288.0">.</text>
+<text x="583.2" y="288.0">.</text>
+<text x="590.4" y="288.0">.</text>
+<text x="597.6" y="288.0">.</text>
+<text x="604.8" y="288.0">.</text>
+<text x="612.0" y="288.0">.</text>
+<text x="619.2" y="288.0">.</text>
+<text x="626.4" y="288.0">.</text>
+<text x="633.6" y="288.0">.</text>
+<text x="640.8" y="288.0">.</text>
+<text x="648.0" y="288.0" textLength="68.4" lengthAdjust="spacing">..--,,--,,,,,,,--..</text>
+<text x="720.0" y="288.0" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="734.4" y="288.0">.</text>
+<text x="741.6" y="288.0">.</text>
+<text x="748.8" y="288.0">.</text>
+<text x="756.0" y="288.0">.</text>
+<text x="763.2" y="288.0">.</text>
+<text x="770.4" y="288.0">.</text>
+<text x="777.6" y="288.0">.</text>
+<text x="784.8" y="288.0">.</text>
+<text x="792.0" y="288.0">.</text>
+<text x="871.2" y="288.0">.</text>
+<text x="878.4" y="288.0">.</text>
+<text x="885.6" y="288.0" textLength="61.2" lengthAdjust="spacing">.-~+xx+;*=x====*,</text>
+<text x="133.2" y="294.4" textLength="68.4" lengthAdjust="spacing">.------..-;=x%%%o%=</text>
+<text x="205.2" y="294.4" textLength="25.2" lengthAdjust="spacing">.****;.</text>
+<text x="334.8" y="294.4">.</text>
+<text x="363.6" y="294.4">.</text>
+<text x="370.8" y="294.4">.</text>
+<text x="378.0" y="294.4">.</text>
+<text x="385.2" y="294.4" textLength="10.8" lengthAdjust="spacing">-,-</text>
+<text x="399.6" y="294.4">.</text>
+<text x="406.8" y="294.4">.</text>
+<text x="414.0" y="294.4">.</text>
+<text x="421.2" y="294.4">.</text>
+<text x="428.4" y="294.4">.</text>
+<text x="435.6" y="294.4">.</text>
+<text x="464.4" y="294.4">.</text>
+<text x="478.8" y="294.4">.</text>
+<text x="486.0" y="294.4">.</text>
+<text x="493.2" y="294.4">.</text>
+<text x="500.4" y="294.4">.</text>
+<text x="507.6" y="294.4">.</text>
+<text x="536.4" y="294.4">.</text>
+<text x="543.6" y="294.4">.</text>
+<text x="565.2" y="294.4">.</text>
+<text x="572.4" y="294.4">.</text>
+<text x="579.6" y="294.4">.</text>
+<text x="594.0" y="294.4">.</text>
+<text x="608.4" y="294.4">.</text>
+<text x="615.6" y="294.4">.</text>
+<text x="622.8" y="294.4">.</text>
+<text x="630.0" y="294.4">.</text>
+<text x="637.2" y="294.4">.</text>
+<text x="644.4" y="294.4">.</text>
+<text x="651.6" y="294.4" textLength="54.0" lengthAdjust="spacing">-,,,---,,,,-,-.</text>
+<text x="709.2" y="294.4">.</text>
+<text x="738.0" y="294.4">.</text>
+<text x="759.6" y="294.4">.</text>
+<text x="766.8" y="294.4">.</text>
+<text x="882.0" y="294.4" textLength="68.4" lengthAdjust="spacing">.-;+===+==xx*~+x=~.</text>
+<text x="129.6" y="300.8" textLength="46.8" lengthAdjust="spacing">......---.-..</text>
+<text x="180.0" y="300.8" textLength="25.2" lengthAdjust="spacing">-,;+x=.</text>
+<text x="216.0" y="300.8" textLength="18.0" lengthAdjust="spacing">,~**,</text>
+<text x="252.0" y="300.8">.</text>
+<text x="309.6" y="300.8">.</text>
+<text x="338.4" y="300.8">.</text>
+<text x="352.8" y="300.8">.</text>
+<text x="367.2" y="300.8">.</text>
+<text x="374.4" y="300.8">.</text>
+<text x="381.6" y="300.8">.</text>
+<text x="388.8" y="300.8" textLength="18.0" lengthAdjust="spacing">.-...</text>
+<text x="410.4" y="300.8">.</text>
+<text x="417.6" y="300.8">.</text>
+<text x="424.8" y="300.8" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="439.2" y="300.8">.</text>
+<text x="446.4" y="300.8">.</text>
+<text x="453.6" y="300.8">.</text>
+<text x="468.0" y="300.8">.</text>
+<text x="482.4" y="300.8">.</text>
+<text x="489.6" y="300.8">.</text>
+<text x="496.8" y="300.8">.</text>
+<text x="504.0" y="300.8">.</text>
+<text x="511.2" y="300.8">.</text>
+<text x="518.4" y="300.8">.</text>
+<text x="525.6" y="300.8">.</text>
+<text x="532.8" y="300.8" textLength="18.0" lengthAdjust="spacing">.::..</text>
+<text x="554.4" y="300.8">.</text>
+<text x="561.6" y="300.8" textLength="18.0" lengthAdjust="spacing">..,..</text>
+<text x="612.0" y="300.8">.</text>
+<text x="619.2" y="300.8">.</text>
+<text x="626.4" y="300.8">.</text>
+<text x="633.6" y="300.8">.</text>
+<text x="640.8" y="300.8">.</text>
+<text x="648.0" y="300.8" textLength="61.2" lengthAdjust="spacing">..----......-....</text>
+<text x="712.8" y="300.8">.</text>
+<text x="727.2" y="300.8">.</text>
+<text x="741.6" y="300.8">.</text>
+<text x="756.0" y="300.8">.</text>
+<text x="763.2" y="300.8">.</text>
+<text x="878.4" y="300.8" textLength="72.0" lengthAdjust="spacing">.,::,.-:;*=xx+*xxx;.</text>
+<text x="140.4" y="307.2">.</text>
+<text x="147.6" y="307.2" textLength="10.8" lengthAdjust="spacing">..-</text>
+<text x="162.0" y="307.2" textLength="10.8" lengthAdjust="spacing">.--</text>
+<text x="176.4" y="307.2">.</text>
+<text x="183.6" y="307.2">.</text>
+<text x="190.8" y="307.2">.</text>
+<text x="198.0" y="307.2" textLength="10.8" lengthAdjust="spacing">-,,</text>
+<text x="219.6" y="307.2" textLength="18.0" lengthAdjust="spacing">.~*;-</text>
+<text x="399.6" y="307.2">.</text>
+<text x="428.4" y="307.2">.</text>
+<text x="442.8" y="307.2">.</text>
+<text x="450.0" y="307.2">.</text>
+<text x="457.2" y="307.2" textLength="75.6" lengthAdjust="spacing">.-----,,,,,::,,,,,,,.</text>
+<text x="550.8" y="307.2" textLength="158.4" lengthAdjust="spacing">,,:~;***=xxxxxxxxx**xoooooo%o%%%%%%%%%oox=*:</text>
+<text x="871.2" y="307.2" textLength="14.4" lengthAdjust="spacing">.--.</text>
+<text x="889.2" y="307.2">.</text>
+<text x="896.4" y="307.2" textLength="50.4" lengthAdjust="spacing">-,,~;*=x=*~,:,</text>
+<text x="144.0" y="313.6" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="158.4" y="313.6" textLength="54.0" lengthAdjust="spacing">.......-....---</text>
+<text x="216.0" y="313.6">.</text>
+<text x="223.2" y="313.6">.</text>
+<text x="230.4" y="313.6" textLength="10.8" lengthAdjust="spacing">~;.</text>
+<text x="244.8" y="313.6">.</text>
+<text x="252.0" y="313.6">.</text>
+<text x="259.2" y="313.6">.</text>
+<text x="273.6" y="313.6">.</text>
+<text x="345.6" y="313.6">.</text>
+<text x="374.4" y="313.6">.</text>
+<text x="388.8" y="313.6" textLength="140.4" lengthAdjust="spacing">..-~;*=xoo%%######################%ox;-</text>
+<text x="532.8" y="313.6">.</text>
+<text x="540.0" y="313.6">.</text>
+<text x="547.2" y="313.6" textLength="162.0" lengthAdjust="spacing">..-,:~*x%######@@@#xx##x#@@#####%%=;==;~;;;~.</text>
+<text x="734.4" y="313.6">.</text>
+<text x="763.2" y="313.6">.</text>
+<text x="856.8" y="313.6">.</text>
+<text x="864.0" y="313.6" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="878.4" y="313.6">.</text>
+<text x="885.6" y="313.6" textLength="54.0" lengthAdjust="spacing">....-,~;:--..,,</text>
+<text x="154.8" y="320.0" textLength="10.8" lengthAdjust="spacing">.-.</text>
+<text x="169.2" y="320.0">.</text>
+<text x="176.4" y="320.0">.</text>
+<text x="183.6" y="320.0" textLength="10.8" lengthAdjust="spacing">..-</text>
+<text x="198.0" y="320.0">.</text>
+<text x="205.2" y="320.0">.</text>
+<text x="212.4" y="320.0">.</text>
+<text x="219.6" y="320.0">.</text>
+<text x="230.4" y="320.0" textLength="14.4" lengthAdjust="spacing">-~,.</text>
+<text x="248.4" y="320.0">.</text>
+<text x="414.0" y="320.0" textLength="97.2" lengthAdjust="spacing">.-,;*=xoo%%####%%%%%%ox*;~,</text>
+<text x="514.8" y="320.0">.</text>
+<text x="579.6" y="320.0" textLength="118.8" lengthAdjust="spacing">,*=**x%%%%###%%%%%%%ox=*;;;~~::,.</text>
+<text x="867.6" y="320.0">.</text>
+<text x="882.0" y="320.0">.</text>
+<text x="889.2" y="320.0" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="903.6" y="320.0" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="918.0" y="320.0" textLength="10.8" lengthAdjust="spacing">.-.</text>
+<text x="172.8" y="326.4">.</text>
+<text x="180.0" y="326.4" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="194.4" y="326.4" textLength="10.8" lengthAdjust="spacing">--.</text>
+<text x="208.8" y="326.4" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="223.2" y="326.4">.</text>
+<text x="237.6" y="326.4" textLength="7.2" lengthAdjust="spacing">..</text>
+<text x="252.0" y="326.4">.</text>
+<text x="259.2" y="326.4">.</text>
+<text x="266.4" y="326.4">.</text>
+<text x="280.8" y="326.4">.</text>
+<text x="396.0" y="326.4">.</text>
+<text x="417.6" y="326.4">.</text>
+<text x="424.8" y="326.4">.</text>
+<text x="432.0" y="326.4" textLength="75.6" lengthAdjust="spacing">.,;*=xxoo%%ooooo=~...</text>
+<text x="511.2" y="326.4">.</text>
+<text x="554.4" y="326.4">.</text>
+<text x="579.6" y="326.4" textLength="108.0" lengthAdjust="spacing">.,~*=xxo%%%##x~x%=;~~~,,--.-..</text>
+<text x="842.4" y="326.4">.</text>
+<text x="849.6" y="326.4">.</text>
+<text x="856.8" y="326.4">.</text>
+<text x="864.0" y="326.4">.</text>
+<text x="871.2" y="326.4">.</text>
+<text x="878.4" y="326.4">.</text>
+<text x="885.6" y="326.4">.</text>
+<text x="892.8" y="326.4">.</text>
+<text x="900.0" y="326.4" textLength="10.8" lengthAdjust="spacing">.-.</text>
+<text x="914.4" y="326.4">.</text>
+<text x="190.8" y="332.8">.</text>
+<text x="198.0" y="332.8">.</text>
+<text x="205.2" y="332.8">.</text>
+<text x="212.4" y="332.8">.</text>
+<text x="219.6" y="332.8">.</text>
+<text x="241.2" y="332.8">.</text>
+<text x="255.6" y="332.8">.</text>
+<text x="428.4" y="332.8">.</text>
+<text x="442.8" y="332.8" textLength="57.6" lengthAdjust="spacing">.-:;=o%%%#%=*;~-</text>
+<text x="579.6" y="332.8" textLength="82.8" lengthAdjust="spacing">x%%#####@@#@@%=;~;~,,-.</text>
+<text x="860.4" y="332.8">.</text>
+<text x="874.8" y="332.8">.</text>
+<text x="889.2" y="332.8">.</text>
+<text x="194.4" y="339.2">.</text>
+<text x="201.6" y="339.2" textLength="25.2" lengthAdjust="spacing">.......</text>
+<text x="230.4" y="339.2">.</text>
+<text x="237.6" y="339.2" textLength="18.0" lengthAdjust="spacing">.....</text>
+<text x="259.2" y="339.2">.</text>
+<text x="266.4" y="339.2">.</text>
+<text x="273.6" y="339.2">.</text>
+<text x="280.8" y="339.2">.</text>
+<text x="288.0" y="339.2">.</text>
+<text x="302.4" y="339.2">.</text>
+<text x="417.6" y="339.2">.</text>
+<text x="424.8" y="339.2">.</text>
+<text x="439.2" y="339.2" textLength="61.2" lengthAdjust="spacing">;o%%%%#@@@@#%=:..</text>
+<text x="518.4" y="339.2">.</text>
+<text x="547.2" y="339.2">.</text>
+<text x="576.0" y="339.2" textLength="82.8" lengthAdjust="spacing">-%@@@#@@#@@#%=;;,-----.</text>
+<text x="676.8" y="339.2">.</text>
+<text x="734.4" y="339.2">.</text>
+<text x="748.8" y="339.2">.</text>
+<text x="835.2" y="339.2">.</text>
+<text x="842.4" y="339.2">.</text>
+<text x="849.6" y="339.2">.</text>
+<text x="856.8" y="339.2">.</text>
+<text x="864.0" y="339.2">.</text>
+<text x="871.2" y="339.2">.</text>
+<text x="878.4" y="339.2">.</text>
+<text x="205.2" y="345.6">.</text>
+<text x="212.4" y="345.6">.</text>
+<text x="219.6" y="345.6">.</text>
+<text x="234.0" y="345.6">.</text>
+<text x="241.2" y="345.6">.</text>
+<text x="255.6" y="345.6" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="270.0" y="345.6">.</text>
+<text x="277.2" y="345.6">.</text>
+<text x="435.6" y="345.6">.</text>
+<text x="442.8" y="345.6" textLength="57.6" lengthAdjust="spacing">.;x%####@@@@o;:,</text>
+<text x="572.4" y="345.6" textLength="68.4" lengthAdjust="spacing">;%#@##@@@@@#*-;;,-.</text>
+<text x="644.4" y="345.6">.</text>
+<text x="651.6" y="345.6">.</text>
+<text x="853.2" y="345.6">.</text>
+<text x="860.4" y="345.6">.</text>
+<text x="867.6" y="345.6">.</text>
+<text x="208.8" y="352.0" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="223.2" y="352.0">.</text>
+<text x="230.4" y="352.0">.</text>
+<text x="237.6" y="352.0">.</text>
+<text x="244.8" y="352.0">.</text>
+<text x="252.0" y="352.0">.</text>
+<text x="259.2" y="352.0">.</text>
+<text x="266.4" y="352.0">.</text>
+<text x="273.6" y="352.0">.</text>
+<text x="280.8" y="352.0">.</text>
+<text x="288.0" y="352.0">.</text>
+<text x="295.2" y="352.0">.</text>
+<text x="439.2" y="352.0">.</text>
+<text x="446.4" y="352.0" textLength="61.2" lengthAdjust="spacing">.:=o##ox#@##o*,:.</text>
+<text x="568.8" y="352.0" textLength="61.2" lengthAdjust="spacing">.o@@##@@@@@%*~::-</text>
+<text x="633.6" y="352.0">.</text>
+<text x="640.8" y="352.0">.</text>
+<text x="684.0" y="352.0">.</text>
+<text x="820.8" y="352.0">.</text>
+<text x="828.0" y="352.0">.</text>
+<text x="835.2" y="352.0">.</text>
+<text x="842.4" y="352.0">.</text>
+<text x="849.6" y="352.0">.</text>
+<text x="856.8" y="352.0">.</text>
+<text x="864.0" y="352.0">.</text>
+<text x="219.6" y="358.4">.</text>
+<text x="255.6" y="358.4">.</text>
+<text x="284.4" y="358.4">.</text>
+<text x="453.6" y="358.4" textLength="57.6" lengthAdjust="spacing">-=%####@@@#x;*;-</text>
+<text x="565.2" y="358.4" textLength="57.6" lengthAdjust="spacing">,%#@@####@#%*,,,</text>
+<text x="630.0" y="358.4">.</text>
+<text x="831.6" y="358.4">.</text>
+<text x="838.8" y="358.4">.</text>
+<text x="216.0" y="364.8">.</text>
+<text x="223.2" y="364.8">.</text>
+<text x="230.4" y="364.8">.</text>
+<text x="244.8" y="364.8">.</text>
+<text x="252.0" y="364.8">.</text>
+<text x="259.2" y="364.8">.</text>
+<text x="266.4" y="364.8">.</text>
+<text x="273.6" y="364.8" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="288.0" y="364.8">.</text>
+<text x="295.2" y="364.8">.</text>
+<text x="302.4" y="364.8">.</text>
+<text x="432.0" y="364.8">.</text>
+<text x="446.4" y="364.8">.</text>
+<text x="453.6" y="364.8" textLength="61.2" lengthAdjust="spacing">.-+%%%#@@@@#%=**-</text>
+<text x="532.8" y="364.8">.</text>
+<text x="547.2" y="364.8">.</text>
+<text x="561.6" y="364.8" textLength="68.4" lengthAdjust="spacing">.+#@#@@@@@@o,-~-...</text>
+<text x="633.6" y="364.8">.</text>
+<text x="640.8" y="364.8">.</text>
+<text x="684.0" y="364.8">.</text>
+<text x="734.4" y="364.8">.</text>
+<text x="763.2" y="364.8">.</text>
+<text x="799.2" y="364.8">.</text>
+<text x="806.4" y="364.8">.</text>
+<text x="813.6" y="364.8">.</text>
+<text x="820.8" y="364.8" textLength="10.8" lengthAdjust="spacing">.-.</text>
+<text x="835.2" y="364.8">.</text>
+<text x="842.4" y="364.8">.</text>
+<text x="849.6" y="364.8">.</text>
+<text x="856.8" y="364.8">.</text>
+<text x="262.8" y="371.2">.</text>
+<text x="270.0" y="371.2">.</text>
+<text x="277.2" y="371.2">.</text>
+<text x="460.8" y="371.2" textLength="57.6" lengthAdjust="spacing">~oox%@@@@@#=**+;</text>
+<text x="558.0" y="371.2" textLength="54.0" lengthAdjust="spacing">.x#@@###@@#+:;:</text>
+<text x="615.6" y="371.2">.</text>
+<text x="622.8" y="371.2">.</text>
+<text x="824.4" y="371.2">,</text>
+<text x="838.8" y="371.2">.</text>
+<text x="223.2" y="377.6">.</text>
+<text x="237.6" y="377.6">.</text>
+<text x="244.8" y="377.6">.</text>
+<text x="252.0" y="377.6">.</text>
+<text x="259.2" y="377.6">.</text>
+<text x="266.4" y="377.6" textLength="10.8" lengthAdjust="spacing">.-.</text>
+<text x="280.8" y="377.6">.</text>
+<text x="295.2" y="377.6">.</text>
+<text x="302.4" y="377.6">.</text>
+<text x="309.6" y="377.6">.</text>
+<text x="453.6" y="377.6">.</text>
+<text x="460.8" y="377.6" textLength="61.2" lengthAdjust="spacing">.,x####@@@##o===~</text>
+<text x="540.0" y="377.6">.</text>
+<text x="554.4" y="377.6" textLength="46.8" lengthAdjust="spacing">.;#@#@@##@#x~</text>
+<text x="604.8" y="377.6">.</text>
+<text x="612.0" y="377.6">.</text>
+<text x="619.2" y="377.6">.</text>
+<text x="626.4" y="377.6">.</text>
+<text x="684.0" y="377.6">.</text>
+<text x="813.6" y="377.6" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="828.0" y="377.6">.</text>
+<text x="835.2" y="377.6">.</text>
+<text x="842.4" y="377.6">.</text>
+<text x="849.6" y="377.6">.</text>
+<text x="248.4" y="384.0">.</text>
+<text x="262.8" y="384.0" textLength="10.8" lengthAdjust="spacing">,,-</text>
+<text x="468.0" y="384.0" textLength="57.6" lengthAdjust="spacing">;o%####@@@%+*=x;</text>
+<text x="554.4" y="384.0" textLength="39.6" lengthAdjust="spacing">=#@@####@#*</text>
+<text x="597.6" y="384.0" textLength="7.2" lengthAdjust="spacing">;;</text>
+<text x="615.6" y="384.0">.</text>
+<text x="817.2" y="384.0">.</text>
+<text x="824.4" y="384.0">.</text>
+<text x="831.6" y="384.0">.</text>
+<text x="838.8" y="384.0">.</text>
+<text x="846.0" y="384.0">.</text>
+<text x="230.4" y="390.4">.</text>
+<text x="237.6" y="390.4">.</text>
+<text x="244.8" y="390.4">.</text>
+<text x="252.0" y="390.4">.</text>
+<text x="259.2" y="390.4" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="273.6" y="390.4" textLength="10.8" lengthAdjust="spacing">--.</text>
+<text x="288.0" y="390.4">.</text>
+<text x="295.2" y="390.4">.</text>
+<text x="302.4" y="390.4" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="316.8" y="390.4">.</text>
+<text x="331.2" y="390.4">.</text>
+<text x="345.6" y="390.4">.</text>
+<text x="446.4" y="390.4">.</text>
+<text x="460.8" y="390.4">.</text>
+<text x="468.0" y="390.4" textLength="64.8" lengthAdjust="spacing">.:x#%##@@@#%x*xx=-</text>
+<text x="547.2" y="390.4" textLength="54.0" lengthAdjust="spacing">.~%@@##@@@%=;;-</text>
+<text x="604.8" y="390.4">.</text>
+<text x="612.0" y="390.4">.</text>
+<text x="619.2" y="390.4">.</text>
+<text x="662.4" y="390.4">.</text>
+<text x="748.8" y="390.4">.</text>
+<text x="792.0" y="390.4">.</text>
+<text x="806.4" y="390.4">.</text>
+<text x="813.6" y="390.4">.</text>
+<text x="820.8" y="390.4">.</text>
+<text x="835.2" y="390.4">.</text>
+<text x="842.4" y="390.4">.</text>
+<text x="849.6" y="390.4">.</text>
+<text x="234.0" y="396.8">.</text>
+<text x="248.4" y="396.8">.</text>
+<text x="255.6" y="396.8">.</text>
+<text x="262.8" y="396.8">.</text>
+<text x="284.4" y="396.8" textLength="10.8" lengthAdjust="spacing">.-.</text>
+<text x="298.8" y="396.8" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="320.4" y="396.8">.</text>
+<text x="334.8" y="396.8">.</text>
+<text x="471.6" y="396.8" textLength="61.2" lengthAdjust="spacing">.*oo%##@@@@o*=o%*</text>
+<text x="547.2" y="396.8" textLength="43.2" lengthAdjust="spacing">;#@@@@@###x.</text>
+<text x="594.0" y="396.8">,</text>
+<text x="601.2" y="396.8">.</text>
+<text x="608.4" y="396.8">.</text>
+<text x="615.6" y="396.8">.</text>
+<text x="802.8" y="396.8">.</text>
+<text x="237.6" y="403.2">.</text>
+<text x="252.0" y="403.2" textLength="10.8" lengthAdjust="spacing">.,-</text>
+<text x="266.4" y="403.2">.</text>
+<text x="273.6" y="403.2">.</text>
+<text x="280.8" y="403.2">.</text>
+<text x="288.0" y="403.2">.</text>
+<text x="295.2" y="403.2" textLength="10.8" lengthAdjust="spacing">-:,</text>
+<text x="309.6" y="403.2">.</text>
+<text x="316.8" y="403.2">.</text>
+<text x="324.0" y="403.2">.</text>
+<text x="331.2" y="403.2">.</text>
+<text x="338.4" y="403.2">.</text>
+<text x="475.2" y="403.2" textLength="61.2" lengthAdjust="spacing">.~o%%%#@@@#oxxxox</text>
+<text x="543.6" y="403.2" textLength="50.4" lengthAdjust="spacing">.x@@@@@@@#;,;,</text>
+<text x="597.6" y="403.2" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="612.0" y="403.2">.</text>
+<text x="619.2" y="403.2">.</text>
+<text x="792.0" y="403.2" textLength="10.8" lengthAdjust="spacing">.-.</text>
+<text x="813.6" y="403.2">.</text>
+<text x="820.8" y="403.2">.</text>
+<text x="828.0" y="403.2">.</text>
+<text x="835.2" y="403.2">.</text>
+<text x="842.4" y="403.2">.</text>
+<text x="849.6" y="403.2">.</text>
+<text x="234.0" y="409.6">.</text>
+<text x="248.4" y="409.6" textLength="18.0" lengthAdjust="spacing">.,;~.</text>
+<text x="277.2" y="409.6">.</text>
+<text x="284.4" y="409.6">.</text>
+<text x="291.6" y="409.6" textLength="10.8" lengthAdjust="spacing">-,.</text>
+<text x="306.0" y="409.6">.</text>
+<text x="320.4" y="409.6">.</text>
+<text x="327.6" y="409.6">.</text>
+<text x="342.0" y="409.6">.</text>
+<text x="478.8" y="409.6" textLength="111.6" lengthAdjust="spacing">,=%%xx#@@@#x+xox;;%@@@#@@@%=;,.</text>
+<text x="594.0" y="409.6">.</text>
+<text x="601.2" y="409.6">.</text>
+<text x="788.4" y="409.6" textLength="10.8" lengthAdjust="spacing">-,-</text>
+<text x="824.4" y="409.6">.</text>
+<text x="831.6" y="409.6">.</text>
+<text x="230.4" y="416.0">.</text>
+<text x="237.6" y="416.0">.</text>
+<text x="244.8" y="416.0" textLength="21.6" lengthAdjust="spacing">.-*+;.</text>
+<text x="273.6" y="416.0">.</text>
+<text x="280.8" y="416.0">.</text>
+<text x="288.0" y="416.0" textLength="68.4" lengthAdjust="spacing">.,;,..,~:,~;;;;~,..</text>
+<text x="360.0" y="416.0">.</text>
+<text x="374.4" y="416.0">.</text>
+<text x="388.8" y="416.0">.</text>
+<text x="475.2" y="416.0">.</text>
+<text x="482.4" y="416.0" textLength="104.4" lengthAdjust="spacing">.;%%%###@#o===x%#@@@@@@@#=-:,</text>
+<text x="590.4" y="416.0">.</text>
+<text x="597.6" y="416.0">.</text>
+<text x="604.8" y="416.0">.</text>
+<text x="662.4" y="416.0">.</text>
+<text x="712.8" y="416.0">.</text>
+<text x="720.0" y="416.0" textLength="32.4" lengthAdjust="spacing">.--,::,..</text>
+<text x="756.0" y="416.0">.</text>
+<text x="763.2" y="416.0">.</text>
+<text x="770.4" y="416.0">.</text>
+<text x="777.6" y="416.0">.</text>
+<text x="784.8" y="416.0">.</text>
+<text x="792.0" y="416.0">.</text>
+<text x="799.2" y="416.0">.</text>
+<text x="806.4" y="416.0">.</text>
+<text x="813.6" y="416.0">.</text>
+<text x="820.8" y="416.0" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="835.2" y="416.0">.</text>
+<text x="842.4" y="416.0" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="248.4" y="422.4" textLength="10.8" lengthAdjust="spacing">;=~</text>
+<text x="262.8" y="422.4">.</text>
+<text x="277.2" y="422.4">.</text>
+<text x="291.6" y="422.4" textLength="46.8" lengthAdjust="spacing">-~,;=o%%ox+;:</text>
+<text x="363.6" y="422.4">.</text>
+<text x="486.0" y="422.4" textLength="97.2" lengthAdjust="spacing">:=x%%###@@%;;o#@##@@@@%***,</text>
+<text x="586.8" y="422.4">.</text>
+<text x="594.0" y="422.4">.</text>
+<text x="630.0" y="422.4">.</text>
+<text x="756.0" y="422.4" textLength="14.4" lengthAdjust="spacing">==;,</text>
+<text x="774.0" y="422.4">.</text>
+<text x="781.2" y="422.4">.</text>
+<text x="824.4" y="422.4">.</text>
+<text x="838.8" y="422.4" textLength="14.4" lengthAdjust="spacing">.~~.</text>
+<text x="237.6" y="428.8">.</text>
+<text x="244.8" y="428.8" textLength="10.8" lengthAdjust="spacing">.-.</text>
+<text x="259.2" y="428.8">.</text>
+<text x="266.4" y="428.8">.</text>
+<text x="273.6" y="428.8">.</text>
+<text x="280.8" y="428.8" textLength="36.0" lengthAdjust="spacing">..-~=o%x=;</text>
+<text x="367.2" y="428.8" textLength="10.8" lengthAdjust="spacing">.-.</text>
+<text x="381.6" y="428.8">.</text>
+<text x="410.4" y="428.8">.</text>
+<text x="482.4" y="428.8">.</text>
+<text x="489.6" y="428.8" textLength="97.2" lengthAdjust="spacing">.=%%%###@%*x#@#xo@@##x;,.-.</text>
+<text x="590.4" y="428.8">.</text>
+<text x="597.6" y="428.8">.</text>
+<text x="669.6" y="428.8">.</text>
+<text x="684.0" y="428.8">.</text>
+<text x="691.2" y="428.8">.</text>
+<text x="698.4" y="428.8">.</text>
+<text x="770.4" y="428.8" textLength="18.0" lengthAdjust="spacing">x=*;-</text>
+<text x="792.0" y="428.8">.</text>
+<text x="799.2" y="428.8">.</text>
+<text x="806.4" y="428.8">.</text>
+<text x="813.6" y="428.8">.</text>
+<text x="820.8" y="428.8">.</text>
+<text x="828.0" y="428.8">.</text>
+<text x="838.8" y="428.8" textLength="10.8" lengthAdjust="spacing">-*;</text>
+<text x="270.0" y="435.2">.</text>
+<text x="277.2" y="435.2" textLength="21.6" lengthAdjust="spacing">;xx***</text>
+<text x="378.0" y="435.2">-</text>
+<text x="493.2" y="435.2" textLength="82.8" lengthAdjust="spacing">;=xo%##@###@@@@@#@#;,;,</text>
+<text x="579.6" y="435.2">.</text>
+<text x="594.0" y="435.2">.</text>
+<text x="687.6" y="435.2">.</text>
+<text x="781.2" y="435.2" textLength="18.0" lengthAdjust="spacing">+=*,.</text>
+<text x="817.2" y="435.2">.</text>
+<text x="831.6" y="435.2">.</text>
+<text x="838.8" y="435.2" textLength="10.8" lengthAdjust="spacing">,,.</text>
+<text x="230.4" y="441.6">.</text>
+<text x="237.6" y="441.6">.</text>
+<text x="244.8" y="441.6">.</text>
+<text x="252.0" y="441.6">.</text>
+<text x="259.2" y="441.6">.</text>
+<text x="266.4" y="441.6" textLength="18.0" lengthAdjust="spacing">.;xx=</text>
+<text x="381.6" y="441.6">.</text>
+<text x="388.8" y="441.6">.</text>
+<text x="396.0" y="441.6">.</text>
+<text x="403.2" y="441.6">.</text>
+<text x="410.4" y="441.6">.</text>
+<text x="417.6" y="441.6">.</text>
+<text x="432.0" y="441.6">.</text>
+<text x="446.4" y="441.6">.</text>
+<text x="460.8" y="441.6">.</text>
+<text x="475.2" y="441.6">.</text>
+<text x="482.4" y="441.6">.</text>
+<text x="489.6" y="441.6">.</text>
+<text x="496.8" y="441.6" textLength="75.6" lengthAdjust="spacing">-x#%%%###@@@##@#o==;.</text>
+<text x="576.0" y="441.6" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="590.4" y="441.6">.</text>
+<text x="604.8" y="441.6">.</text>
+<text x="619.2" y="441.6">.</text>
+<text x="633.6" y="441.6">.</text>
+<text x="640.8" y="441.6">.</text>
+<text x="648.0" y="441.6">.</text>
+<text x="655.2" y="441.6">.</text>
+<text x="662.4" y="441.6">.</text>
+<text x="669.6" y="441.6">.</text>
+<text x="676.8" y="441.6">.</text>
+<text x="684.0" y="441.6">.</text>
+<text x="795.6" y="441.6" textLength="7.2" lengthAdjust="spacing">--</text>
+<text x="806.4" y="441.6">.</text>
+<text x="813.6" y="441.6">.</text>
+<text x="820.8" y="441.6">.</text>
+<text x="835.2" y="441.6" textLength="7.2" lengthAdjust="spacing">..</text>
+<text x="849.6" y="441.6">.</text>
+<text x="262.8" y="448.0" textLength="10.8" lengthAdjust="spacing">~*+</text>
+<text x="385.2" y="448.0">.</text>
+<text x="406.8" y="448.0">.</text>
+<text x="421.2" y="448.0">.</text>
+<text x="435.6" y="448.0">.</text>
+<text x="442.8" y="448.0" textLength="10.8" lengthAdjust="spacing">.,.</text>
+<text x="478.8" y="448.0">.</text>
+<text x="493.2" y="448.0" textLength="75.6" lengthAdjust="spacing">.,*xo%#########@#+,,,</text>
+<text x="572.4" y="448.0">.</text>
+<text x="579.6" y="448.0">.</text>
+<text x="586.8" y="448.0">.</text>
+<text x="615.6" y="448.0">.</text>
+<text x="637.2" y="448.0">.</text>
+<text x="651.6" y="448.0">.</text>
+<text x="676.8" y="448.0" textLength="7.2" lengthAdjust="spacing">--</text>
+<text x="810.0" y="448.0">.</text>
+<text x="252.0" y="454.4" textLength="14.4" lengthAdjust="spacing">..,;</text>
+<text x="396.0" y="454.4">.</text>
+<text x="403.2" y="454.4">.</text>
+<text x="410.4" y="454.4">.</text>
+<text x="417.6" y="454.4" textLength="18.0" lengthAdjust="spacing">..-..</text>
+<text x="439.2" y="454.4">.</text>
+<text x="446.4" y="454.4" textLength="18.0" lengthAdjust="spacing">.....</text>
+<text x="468.0" y="454.4">.</text>
+<text x="475.2" y="454.4">.</text>
+<text x="482.4" y="454.4">.</text>
+<text x="489.6" y="454.4">.</text>
+<text x="496.8" y="454.4">.</text>
+<text x="504.0" y="454.4" textLength="61.2" lengthAdjust="spacing">;%%%%#####@#x*x=,</text>
+<text x="568.8" y="454.4" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="583.2" y="454.4">.</text>
+<text x="597.6" y="454.4">.</text>
+<text x="604.8" y="454.4">.</text>
+<text x="612.0" y="454.4">.</text>
+<text x="619.2" y="454.4" textLength="10.8" lengthAdjust="spacing">.-.</text>
+<text x="640.8" y="454.4">.</text>
+<text x="648.0" y="454.4" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="662.4" y="454.4">.</text>
+<text x="669.6" y="454.4">.</text>
+<text x="676.8" y="454.4">.</text>
+<text x="684.0" y="454.4">.</text>
+<text x="813.6" y="454.4">.</text>
+<text x="828.0" y="454.4">.</text>
+<text x="849.6" y="454.4">.</text>
+<text x="255.6" y="460.8">.</text>
+<text x="399.6" y="460.8">.</text>
+<text x="406.8" y="460.8">.</text>
+<text x="414.0" y="460.8">.</text>
+<text x="424.8" y="460.8" textLength="21.6" lengthAdjust="spacing">.:,--.</text>
+<text x="450.0" y="460.8">.</text>
+<text x="464.4" y="460.8">.</text>
+<text x="471.6" y="460.8" textLength="10.8" lengthAdjust="spacing">-,-</text>
+<text x="486.0" y="460.8">.</text>
+<text x="493.2" y="460.8">.</text>
+<text x="500.4" y="460.8" textLength="68.4" lengthAdjust="spacing">.~xo%%%######x~,,-.</text>
+<text x="572.4" y="460.8">.</text>
+<text x="601.2" y="460.8">.</text>
+<text x="608.4" y="460.8" textLength="10.8" lengthAdjust="spacing">..-</text>
+<text x="622.8" y="460.8">.</text>
+<text x="630.0" y="460.8" textLength="18.0" lengthAdjust="spacing">.,,,.</text>
+<text x="651.6" y="460.8">.</text>
+<text x="658.8" y="460.8">.</text>
+<text x="673.2" y="460.8" textLength="14.4" lengthAdjust="spacing">----</text>
+<text x="230.4" y="467.2" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="244.8" y="467.2">.</text>
+<text x="414.0" y="467.2" textLength="14.4" lengthAdjust="spacing">-...</text>
+<text x="432.0" y="467.2" textLength="25.2" lengthAdjust="spacing">...,;,.</text>
+<text x="460.8" y="467.2" textLength="25.2" lengthAdjust="spacing">....--.</text>
+<text x="489.6" y="467.2">.</text>
+<text x="496.8" y="467.2" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="511.2" y="467.2" textLength="46.8" lengthAdjust="spacing">=%%%%##@%*+x~</text>
+<text x="561.6" y="467.2" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="576.0" y="467.2">.</text>
+<text x="583.2" y="467.2">.</text>
+<text x="590.4" y="467.2">.</text>
+<text x="597.6" y="467.2" textLength="75.6" lengthAdjust="spacing">.--,:..,~;,......~;~.</text>
+<text x="828.0" y="467.2">.</text>
+<text x="835.2" y="467.2">.</text>
+<text x="842.4" y="467.2">.</text>
+<text x="849.6" y="467.2">.</text>
+<text x="230.4" y="473.6" textLength="14.4" lengthAdjust="spacing">----</text>
+<text x="428.4" y="473.6">.</text>
+<text x="435.6" y="473.6">.</text>
+<text x="442.8" y="473.6">.</text>
+<text x="450.0" y="473.6" textLength="10.8" lengthAdjust="spacing">:;,</text>
+<text x="464.4" y="473.6">.</text>
+<text x="471.6" y="473.6" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="486.0" y="473.6" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="507.6" y="473.6" textLength="54.0" lengthAdjust="spacing">.*o%%%%##o~.--.</text>
+<text x="565.2" y="473.6">.</text>
+<text x="572.4" y="473.6">.</text>
+<text x="579.6" y="473.6">.</text>
+<text x="590.4" y="473.6" textLength="21.6" lengthAdjust="spacing">.,-,,-</text>
+<text x="615.6" y="473.6" textLength="18.0" lengthAdjust="spacing">.,:,.</text>
+<text x="637.2" y="473.6" textLength="18.0" lengthAdjust="spacing">--:~,</text>
+<text x="831.6" y="473.6">-</text>
+<text x="838.8" y="473.6" textLength="10.8" lengthAdjust="spacing">.--</text>
+<text x="230.4" y="480.0" textLength="10.8" lengthAdjust="spacing">---</text>
+<text x="439.2" y="480.0" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="453.6" y="480.0" textLength="10.8" lengthAdjust="spacing">.,,</text>
+<text x="468.0" y="480.0" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="482.4" y="480.0">.</text>
+<text x="489.6" y="480.0" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="504.0" y="480.0" textLength="61.2" lengthAdjust="spacing">.-.:x%o%%ox*~-...</text>
+<text x="568.8" y="480.0" textLength="10.8" lengthAdjust="spacing">.,,</text>
+<text x="583.2" y="480.0" textLength="10.8" lengthAdjust="spacing">.-.</text>
+<text x="597.6" y="480.0" textLength="25.2" lengthAdjust="spacing">-,--,,-</text>
+<text x="626.4" y="480.0" textLength="18.0" lengthAdjust="spacing">.,,-.</text>
+<text x="835.2" y="480.0" textLength="14.4" lengthAdjust="spacing">----</text>
+<text x="230.4" y="486.4" textLength="7.2" lengthAdjust="spacing">--</text>
+<text x="450.0" y="486.4" textLength="10.8" lengthAdjust="spacing">--.</text>
+<text x="464.4" y="486.4">.</text>
+<text x="471.6" y="486.4">.</text>
+<text x="478.8" y="486.4">.</text>
+<text x="486.0" y="486.4">.</text>
+<text x="500.4" y="486.4">,</text>
+<text x="514.8" y="486.4" textLength="46.8" lengthAdjust="spacing">;x%o%o;,;,...</text>
+<text x="565.2" y="486.4" textLength="10.8" lengthAdjust="spacing">,;-</text>
+<text x="586.8" y="486.4">.</text>
+<text x="594.0" y="486.4" textLength="18.0" lengthAdjust="spacing">..--.</text>
+<text x="615.6" y="486.4" textLength="14.4" lengthAdjust="spacing">.-;~</text>
+<text x="838.8" y="486.4" textLength="10.8" lengthAdjust="spacing">---</text>
+<text x="230.4" y="492.8">,</text>
+<text x="460.8" y="492.8" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="475.2" y="492.8" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="489.6" y="492.8" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="504.0" y="492.8" textLength="68.4" lengthAdjust="spacing">,;,.:=oox*,---.-~,.</text>
+<text x="576.0" y="492.8">.</text>
+<text x="583.2" y="492.8" textLength="18.0" lengthAdjust="spacing">..--.</text>
+<text x="604.8" y="492.8" textLength="18.0" lengthAdjust="spacing">..-;~</text>
+<text x="838.8" y="492.8" textLength="10.8" lengthAdjust="spacing">.--</text>
+<text x="226.8" y="499.2">.</text>
+<text x="464.4" y="499.2">.</text>
+<text x="471.6" y="499.2">.</text>
+<text x="478.8" y="499.2">.</text>
+<text x="486.0" y="499.2">.</text>
+<text x="493.2" y="499.2">.</text>
+<text x="504.0" y="499.2" textLength="43.2" lengthAdjust="spacing">-~-.-;xx**;-</text>
+<text x="550.8" y="499.2">.</text>
+<text x="558.0" y="499.2" textLength="10.8" lengthAdjust="spacing">-;~</text>
+<text x="579.6" y="499.2">.</text>
+<text x="586.8" y="499.2">.</text>
+<text x="594.0" y="499.2">.</text>
+<text x="601.2" y="499.2" textLength="14.4" lengthAdjust="spacing">-,;;</text>
+<text x="846.0" y="499.2">.</text>
+<text x="475.2" y="505.6">.</text>
+<text x="482.4" y="505.6">.</text>
+<text x="489.6" y="505.6" textLength="10.8" lengthAdjust="spacing">.-.</text>
+<text x="504.0" y="505.6">.</text>
+<text x="511.2" y="505.6" textLength="54.0" lengthAdjust="spacing">,~-;x*,---..~;.</text>
+<text x="568.8" y="505.6">.</text>
+<text x="576.0" y="505.6" textLength="32.4" lengthAdjust="spacing">.--...,~~</text>
+<text x="482.4" y="512.0" textLength="7.2" lengthAdjust="spacing">..</text>
+<text x="500.4" y="512.0">.</text>
+<text x="514.8" y="512.0">-</text>
+<text x="522.0" y="512.0" textLength="18.0" lengthAdjust="spacing">-;*;-</text>
+<text x="543.6" y="512.0">.</text>
+<text x="554.4" y="512.0" textLength="7.2" lengthAdjust="spacing">.-</text>
+<text x="565.2" y="512.0">.</text>
+<text x="572.4" y="512.0">.</text>
+<text x="579.6" y="512.0">.</text>
+<text x="586.8" y="512.0" textLength="10.8" lengthAdjust="spacing">-~~</text>
+<text x="482.4" y="518.4" textLength="18.0" lengthAdjust="spacing">.-...</text>
+<text x="504.0" y="518.4" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="518.4" y="518.4" textLength="25.2" lengthAdjust="spacing">.-,;*,.</text>
+<text x="547.2" y="518.4" textLength="10.8" lengthAdjust="spacing">.-.</text>
+<text x="561.6" y="518.4" textLength="32.4" lengthAdjust="spacing">......,~,</text>
+<text x="493.2" y="524.8">.</text>
+<text x="500.4" y="524.8">.</text>
+<text x="507.6" y="524.8">.</text>
+<text x="514.8" y="524.8" textLength="10.8" lengthAdjust="spacing">.-.</text>
+<text x="529.2" y="524.8" textLength="10.8" lengthAdjust="spacing">:;-</text>
+<text x="547.2" y="524.8" textLength="7.2" lengthAdjust="spacing">.-</text>
+<text x="561.6" y="524.8" textLength="7.2" lengthAdjust="spacing">.-</text>
+<text x="572.4" y="524.8" textLength="18.0" lengthAdjust="spacing">.-~;,</text>
+<text x="496.8" y="531.2">-</text>
+<text x="504.0" y="531.2">.</text>
+<text x="511.2" y="531.2" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="525.6" y="531.2" textLength="18.0" lengthAdjust="spacing">.,;-.</text>
+<text x="547.2" y="531.2" textLength="10.8" lengthAdjust="spacing">.-.</text>
+<text x="561.6" y="531.2" textLength="21.6" lengthAdjust="spacing">..-,,,</text>
+<text x="500.4" y="537.6" textLength="10.8" lengthAdjust="spacing">--.</text>
+<text x="514.8" y="537.6">.</text>
+<text x="522.0" y="537.6">.</text>
+<text x="529.2" y="537.6">.</text>
+<text x="543.6" y="537.6">.</text>
+<text x="550.8" y="537.6">.</text>
+<text x="558.0" y="537.6">.</text>
+<text x="565.2" y="537.6" textLength="14.4" lengthAdjust="spacing">.,~:</text>
+<text x="507.6" y="544.0" textLength="7.2" lengthAdjust="spacing">..</text>
+<text x="518.4" y="544.0" textLength="10.8" lengthAdjust="spacing">...</text>
+<text x="532.8" y="544.0">.</text>
+<text x="540.0" y="544.0" textLength="18.0" lengthAdjust="spacing">.....</text>
+<text x="561.6" y="544.0" textLength="10.8" lengthAdjust="spacing">.~;</text>
+<text x="507.6" y="550.4">.</text>
+<text x="514.8" y="550.4">.</text>
+<text x="522.0" y="550.4">.</text>
+<text x="529.2" y="550.4">.</text>
+<text x="536.4" y="550.4">.</text>
+<text x="543.6" y="550.4" textLength="10.8" lengthAdjust="spacing">-..</text>
+<text x="558.0" y="550.4" textLength="10.8" lengthAdjust="spacing">-;~</text>
+<text x="511.2" y="556.8" textLength="10.8" lengthAdjust="spacing">.,.</text>
+<text x="525.6" y="556.8">.</text>
+<text x="532.8" y="556.8">.</text>
+<text x="540.0" y="556.8">.</text>
+<text x="547.2" y="556.8" textLength="18.0" lengthAdjust="spacing">..-,-</text>
+<text x="522.0" y="563.2">-</text>
+<text x="529.2" y="563.2">.</text>
+<text x="536.4" y="563.2" textLength="10.8" lengthAdjust="spacing">--.</text>
+<text x="550.8" y="563.2" textLength="10.8" lengthAdjust="spacing">-*;</text>
+<text x="518.4" y="569.6" textLength="39.6" lengthAdjust="spacing">.--..-..~;,</text>
+<text x="525.6" y="576.0" textLength="14.4" lengthAdjust="spacing">--..</text>
+<text x="543.6" y="576.0" textLength="10.8" lengthAdjust="spacing">,~~</text>
+<text x="529.2" y="582.4" textLength="21.6" lengthAdjust="spacing">---:*,</text>
+<text x="529.2" y="588.8" textLength="18.0" lengthAdjust="spacing">.-,--</text>
+<text x="532.8" y="595.2" textLength="14.4" lengthAdjust="spacing">----</text>
+<text x="532.8" y="601.6" textLength="14.4" lengthAdjust="spacing">----</text>
+</g>
+<rect y="0" width="10" height="612" fill="url(#s)"><animate attributeName="x" values="-10;1070;1070;-10" keyTimes="0;0.55;0.92;1" dur="9s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.55;0.56;1" dur="9s" repeatCount="indefinite"/></rect></svg>
