@@ -31,8 +31,8 @@
 <line x1="150" y1="95.5" x2="150" y2="82" stroke="#fff" stroke-opacity=".35" stroke-dasharray="3 3"/>
 <rect x="75.0" y="40" width="150" height="42" fill="#0d1117" stroke="#fff" stroke-opacity="0.8" />
 <path d="M75.0,48 v-8 h8 M217.0,40 h8 v8 M225.0,74 v8 h-8 M83.0,82 h-8 v-8" fill="none" stroke="#fff" stroke-width="1.6"/>
-<text x="83.0" y="56" font-size="11" font-weight="bold" fill="#f0f6fc">[01] BUENO_PANE</text>
-<text x="83.0" y="71" font-size="8.5" fill="#8b949e">landing page // deployed</text>
+<text x="83.0" y="56" font-size="11" font-weight="bold" fill="#f0f6fc">[01] BEEN_BORN</text>
+<text x="83.0" y="71" font-size="8.5" fill="#8b949e">first step // deployed</text>
 <text x="217.0" y="56" font-size="9" text-anchor="end" fill="#f0f6fc">[OK]</text>
 <rect x="143" y="88.5" width="14" height="14" fill="#fff" transform="rotate(45 150 95.5)"/><rect x="143" y="88.5" width="14" height="14" fill="#fff" opacity=".4" filter="url(#gl)" transform="rotate(45 150 95.5)"/>
 </g>
